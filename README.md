@@ -15,6 +15,10 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [servlet](https://github.com/schmalle/Servletpot)
     - [web honeypot in nodejs](https://github.com/schmalle/Nodepot)
     - [basic auth - for web protected pages](https://github.com/bjeborn/basic-auth-pot)
+    - [Shadow Daemon](https://shadowd.zecure.org)
+    - [Servletpot](github.com/schmalle/servletpot)
+    - [Nodepot](http://github.com/schmalle/Nodepot)
+    - [Google Hack Honeypot](http://ghh.sourceforge.net)
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
@@ -26,15 +30,16 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
 
 - ICS/SCADA honeypots
     - [Conpot](https://github.com/glastopf/conpot)
-
+- Deployment
+    - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/)
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap)
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt)
 - Data Analysis
     - [Kippo-Graph](http://bruteforce.gr/kippo-graph)
     - [Kippo stats](https://github.com/mfontani/kippo-stats)
-- -
-    - [honeytoken](-)
+- Other/random
+    - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system
     - [Mantrap / Symantec Decoy Server](http://www.systemhouse.com/symantec/sds.htm)
     - [BigEye](http://violating.us/projects/bigeye/)
     - [BackOfficer Friendly](http://www.nfr.com/resource/backOfficer.php)
@@ -58,11 +63,6 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [HoneyStats](http://sourceforge.net/projects/honeystats/)
 - Visual analsysis for network traffic
     - [Picviz](http://www.wallinfire.net/picviz)
-- Web honeypot
-    - [Shadow Daemon](https://shadowd.zecure.org)
-    - [Servletpot](github.com/schmalle/servletpot)
-    - [Nodepot](http://github.com/schmalle/Nodepot)
-    - [Google Hack Honeypot](http://ghh.sourceforge.net)
 - dynamic code instrumentation toolkit
     - [Frida](http://www.frida.re)
 - Front-end for dionaea
