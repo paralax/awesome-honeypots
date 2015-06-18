@@ -30,6 +30,8 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
 
 - ICS/SCADA honeypots
     - [Conpot](https://github.com/glastopf/conpot)
+    - [scada-honeynet](http://www.digitalbond.com/tools/scada-honeynet/)
+    - [SCADA honeynet](http://scadahoneynet.sourceforge.net)
 - Deployment
     - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/)
 - Visualization
@@ -78,9 +80,6 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
 - Distributed sensor deployment
     - [Sombria](http://www.lac.co.jp/business/sns/intelligence/sombria_e.html)
     - [Smarthoneypot](http://smarthoneypot.com)
-- SCADA honeypot
-    - [scada-honeypot](http://www.digitalbond.com/tools/scada-honeynet/)
-    - [SCADA honeynet](http://scadahoneynet.sourceforge.net)
 - Network Analysis Tool
     - [Tracexploit](https://code.google.com/p/tracexploit/)
 - Log anonymizer
