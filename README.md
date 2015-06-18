@@ -8,6 +8,7 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [Elastic honey](https://github.com/jordan-wright/elastichoney)
     - [mysql](https://github.com/schmalle/MysqlPot)
     - [A framework for nosql databases ( only redis for now)](https://github.com/torque59/nosqlpot)
+    - [ESPot - ElasticSearch Honeypot](https://github.com/mycert/ESPot)
 
 - Web honeypots
     - [Glastopf](https://github.com/glastopf/glastopf) 
