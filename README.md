@@ -105,10 +105,6 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [Sysdig](http://www.sysdig.org)
 - Honeypot for USB-spreading malware
     - [Ghost-usb](https://code.google.com/p/ghost-usb-honeypot/)
-- Type
-    - [Tool](URL)
-- analysis tool
-    - [RFISandbox](http://monkey.org/~jose/software/rfi-sandbox/)
 - Data Collection
     - [Kippo2MySQL](http://bruteforce.gr/kippo2mysql)
     - [Kippo2ElasticSearch](http://bruteforce.gr/kippo2elasticsearch)
@@ -142,6 +138,8 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [KFSensor](http://www.keyfocus.net/kfsensor/)
     - [Honeytrap](http://honeytrap.carnivore.it/)
     - [Honeyd](https://github.com/provos/honeyd)
+    - Bootable honeyd
+        - [HOACD](http://www.honeynet.org.br/tools/)
     - [Honeeebox](http://honeeebox.net)
     - [Glastopf](http://glastopf.org/)
     - [DNS Honeypot](https://github.com/jekil/UDPot)
@@ -221,6 +219,7 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
 - Telephony honeypot
     - [Zapping Rachel](https://seanmckaybeck.com/2014/08/17/zapping-rachel/)
 - Client
+    - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
     - [Wepawet](http://wepawet.cs.ucsb.edu/about.php)
     - [URLQuery](https://urlquery.net/)
@@ -336,11 +335,6 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [Honeybow](http://honeybow.mwcollect.org/)
 - sandbox
     - [PHPSandbox](http://www.fieryprophet.com/phpsandbox)
+    - [RFISandbox](http://monkey.org/~jose/software/rfi-sandbox/)
     - [dorothy2](https://github.com/m4rco-/dorothy2)
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
-- client
-    - [MonkeySpider](http://monkeyspider.sourceforge.net)
-- Bootable honeyd
-    - [HOACD](http://www.honeynet.org.br/tools/)
-- NTP honeypot
-    - [HoneyNTP](https://github.com/fygrave/honeyntp)
