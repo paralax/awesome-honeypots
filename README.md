@@ -10,24 +10,23 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 ## <a name="honeypots"></a> Honeypots 
 
 - Database Honeypots
-    - [Elastic honey](https://github.com/jordan-wright/elastichoney)
-    - [mysql](https://github.com/schmalle/MysqlPot)
-    - [A framework for nosql databases ( only redis for now)](https://github.com/torque59/nosqlpot)
-    - [ESPot - ElasticSearch Honeypot](https://github.com/mycert/ESPot)
+    - [Elastic honey](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot
+    - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage 
+    - [A framework for nosql databases ( only redis for now)](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework
+    - [ESPot](https://github.com/mycert/ESPot) - ElasticSearch Honeypot
 
 - Web honeypots
-    - [Glastopf](https://github.com/glastopf/glastopf) 
-    - [Interactive phpmyadmin](https://github.com/gfoss/phpmyadmin_honeypot)
-    - [servlet](https://github.com/schmalle/Servletpot)
-    - [web honeypot in nodejs](https://github.com/schmalle/Nodepot)
-    - [basic auth - for web protected pages](https://github.com/bjeborn/basic-auth-pot)
+    - [Glastopf](https://github.com/glastopf/glastopf) - Web Application Honeypot
+    - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpmyadmin honeypot
+    - [servlet](https://github.com/schmalle/Servletpot) - Webapplication Honeypot
+    - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot
+    - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
     - [Shadow Daemon](https://shadowd.zecure.org)
-    - [Servletpot](http://github.com/schmalle/servletpot)
-    - [Nodepot](http://github.com/schmalle/Nodepot)
+    - [Servletpot](http://github.com/schmalle/servletpot) - Webapplication Honeypot
     - [Google Hack Honeypot](http://ghh.sourceforge.net)
-    - [smart-honeypot](https://github.com/freak3dot/smart-honeypot)
+    - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
     - [PHPHop](http://rstack.org/phphop/)    
-    - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)    
+    - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - Wordpress plugin to reduce comment spam with a smarter honeypot
     - [wordpot](https://github.com/gbrindisi/wordpot) A Wordpress Honeypot
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) Honeypot - Simple spam prevention package for Laravel applications
@@ -43,7 +42,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot](https://github.com/glastopf/conpot)
+    - [Conpot](https://github.com/glastopf/conpot) - ICS/SCADA honeypot
     - [scada-honeynet](http://www.digitalbond.com/tools/scada-honeynet/)
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net)
     
@@ -52,7 +51,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 
 - Data Analysis
     - [Kippo-Graph](http://bruteforce.gr/kippo-graph)
-    - [Kippo stats](https://github.com/mfontani/kippo-stats)
+    - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system
@@ -64,14 +63,14 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Proxypot](http://proxypot.spamteam.nl)
 
 - Open Relay Spam Honeypot
-    - [SpamHAT](https://github.com/miguelraulb/spamhat)
+    - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
 
 - Botnet C2 monitor
-    - [Hale](http://github.com/pjlantz/Hale)
+    - [Hale](http://github.com/pjlantz/Hale) - Botnet command &amp; control monitor
 
 - IPv6 attack detection tool
     - [ipv6-guard](https://www.honeynet.org/gsoc2012/slot8)
-    - [ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector/)
+    - [ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector/)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization
 
 - Honeypot Database
     - [Manuka](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCgQFjAB&url=https%3A%2F%2Fstaff.washington.edu%2Fdittrich%2Ftalks%2Fieee-ia-manuka.ppt&ei=nS1fVdDjJeL9ywP5soG4Cg&usg=AFQjCNGTVLU6WQe04DdUd1jzVx3Fmwi6Xg&bvm=bv.93990622,d.bGQ)
@@ -101,7 +100,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek)
 
 - Malware Simulator
-    - [imalse](https://github.com/hbhzwj/imalse)
+    - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator
 
 - Distributed sensor deployment
     - [Sombria](http://www.lac.co.jp/business/sns/intelligence/sombria_e.html)
@@ -120,7 +119,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [dnsMole](https://code.google.com/p/dns-mole/)
 
 - Low interaction honeypot (router back door)
-    - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764)
+    - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764)
 
 - honeynet farm traffic redirector
     - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole)
@@ -148,7 +147,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Kippo2ElasticSearch](http://bruteforce.gr/kippo2elasticsearch)
 
 - Passive network audit framework parser
-    - [pnaf](https://github.com/jusafing/pnaf)
+    - [pnaf](https://github.com/jusafing/pnaf) - Passive Network Audit Framework
 
 - VM Introspection
     - [VIX virtual machine introspection toolkit](http://assert.uaf.edu/research/vmi.html)
@@ -157,11 +156,11 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [vmitools](http://libvmi.com/)
 
 - Binary debugger
-    - [Hexgolems - Schem Debugger Frontend](https://github.com/hexgolems/schem)
-    - [Hexgolems - Pint Debugger Backend](https://github.com/hexgolems/pint)
+    - [Hexgolems - Schem Debugger Frontend](https://github.com/hexgolems/schem) - A debugger frontend
+    - [Hexgolems - Pint Debugger Backend](https://github.com/hexgolems/pint) - A debugger backend and LUA wrapper for PIN
 
 - Mobile Analysis Tool
-    - [APKinspector](https://github.com/honeynet/apkinspector/)
+    - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications
     - [Androguard](https://code.google.com/p/androguard/)
 
 - Low interaction honeypot
@@ -175,14 +174,13 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Tiny Honeypot](http://www.alpinista.org/thp/  -> http://web.archive.org/web/20090606073121/http://www.alpinista.org/files/thp/)
     - [Nephenthes](http://nepenthes.carnivore.it//)
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html)
-    - [Kippo](https://github.com/desaster/kippo)
+    - [Kippo](https://github.com/desaster/kippo) - SSH honeypot
     - [KFSensor](http://www.keyfocus.net/kfsensor/)
     - [Honeytrap](http://honeytrap.carnivore.it/)
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd)
     - [Honeeebox](http://honeeebox.net)
     - [Glastopf](http://glastopf.org/)
-    - [DNS Honeypot](https://github.com/jekil/UDPot)
-    - [Django-kippo](https://github.com/jedie/django-kippo)
+    - [DNS Honeypot](https://github.com/jekil/UDPot) - Simple UDP honeypot scripts
     - [Dionaea](http://dionaea.carnivore.it/)
     - [Conpot](http://conpot.org/)
     - [Bifrozt](http://sourceforge.net/projects/bifrozt/)
@@ -463,6 +461,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 
 - Front Ends
     - [Tango](https://github.com/aplura/Tango) Tango - Honeypot Intelligence with Splunk
+    - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot
 
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap)
