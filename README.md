@@ -28,6 +28,9 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot)
     - [PHPHop](http://rstack.org/phphop/)    
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)    
+    - [wordpot](https://github.com/gbrindisi/wordpot) A Wordpress Honeypot
+    - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit
+    - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) Honeypot - Simple spam prevention package for Laravel applications
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
@@ -454,7 +457,10 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 - Sandbox-as-a-Service
     - [malwr.com](http://malwr.com)    
 
-## <a name="visualizers"></a> Visualiation Tools
+## <a name="visualizers"></a> Data Tools
+
+- Front Ends
+    - [Tango](https://github.com/aplura/Tango) Tango - Honeypot Intelligence with Splunk
 
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap)
