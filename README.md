@@ -17,7 +17,7 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [web honeypot in nodejs](https://github.com/schmalle/Nodepot)
     - [basic auth - for web protected pages](https://github.com/bjeborn/basic-auth-pot)
     - [Shadow Daemon](https://shadowd.zecure.org)
-    - [Servletpot](github.com/schmalle/servletpot)
+    - [Servletpot](http://github.com/schmalle/servletpot)
     - [Nodepot](http://github.com/schmalle/Nodepot)
     - [Google Hack Honeypot](http://ghh.sourceforge.net)
 
@@ -231,7 +231,7 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
     - [Jsunpack-n](https://code.google.com/p/jsunpack-n/)
     - [HoneyC](https://projects.honeynet.org/honeyc)
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/honeybot.php)
-    - [CWSandbox / GFI Sandbox](www.gfi.com/malware-analysis-tool)
+    - [CWSandbox / GFI Sandbox](http://www.gfi.com/malware-analysis-tool)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
     - [Andrubis](https://anubis.iseclab.org/)
@@ -326,11 +326,11 @@ A related list for many of us is [awesome-pcaptools](https://github.com/caesar03
 - Honeyd plugin
     - [Honeycomb](http://www.honeyd.org/tools.php)
 - Sandbox-as-a-Service
-    - [malwr.com](malwr.com)
+    - [malwr.com](http://malwr.com)
 - Botnet C2 monitoring
-    - [botsnoopd](botsnoopd.mwcollect.org)
+    - [botsnoopd](http://botsnoopd.mwcollect.org)
 - low interaction
-    - [mysqlpot](github.com/schmalle/mysqlpot)
+    - [mysqlpot](https://github.com/schmalle/mysqlpot)
 - Malware collection
     - [Honeybow](http://honeybow.mwcollect.org/)
 - sandbox
