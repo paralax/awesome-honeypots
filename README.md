@@ -31,6 +31,8 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [wordpot](https://github.com/gbrindisi/wordpot) A Wordpress Honeypot
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) Honeypot - Simple spam prevention package for Laravel applications
+    - [stack-honeypot](https://github.com/CHH/stack-honeypot) Inserts a trap for spam bots into responses
+    - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) Honeypot type for Symfony2 forms
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
