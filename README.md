@@ -36,8 +36,8 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
-    - [for NTP](https://github.com/fygrave/honeyntp)
-    - [Camera pot *](https://github.com/alexbredo/honeypot-camera)
+    - [honeyntp](https://github.com/fygrave/honeyntp) NTP logger/honeypot
+    - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) observation camera honeypot
 
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
