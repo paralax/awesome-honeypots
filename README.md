@@ -454,8 +454,8 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Argos](http://www.few.vu.nl/argos/)
 
 - Sandbox-as-a-Service
-    - [malwr.com](http://malwr.com)    
-    - [detux.org](http://detux.org)
+    - [malwr.com](http://malwr.com) - free malware analysis service and community
+    - [detux.org](http://detux.org) - Multiplatform Linux Sandbox
 
 ## <a name="visualizers"></a> Data Tools
 
