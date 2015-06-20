@@ -3,7 +3,6 @@
 A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
 ## Related Lists
-
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools), useful in network traffic analysis
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis), with some overlap here for artifact analysis
 
@@ -456,6 +455,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 
 - Sandbox-as-a-Service
     - [malwr.com](http://malwr.com)    
+    - [detux.org](http://detux.org)
 
 ## <a name="visualizers"></a> Data Tools
 
