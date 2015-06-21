@@ -34,11 +34,12 @@ A curated list of awesome honeypots, tools, components and much more. The list i
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
-    - [honeyntp](https://github.com/fygrave/honeyntp) NTP logger/honeypot
-    - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) observation camera honeypot
+    - [honeyntp](https://github.com/fygrave/honeyntp) 0 NTP logger/honeypot
+    - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) 0 observation camera honeypot
+    - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
 
 - Anti-honeypot stuff
-    - [kippo_detect](https://github.com/andrew-morris/kippo_detect) This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
+    - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
     - [Conpot](https://github.com/glastopf/conpot) - ICS/SCADA honeypot
