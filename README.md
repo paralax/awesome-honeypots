@@ -308,7 +308,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Cybercop Sting](http://www.nai.com/international/uk/asp_set/products/tns/ccsting_intro.asp)
 
 - PDF document inspector
-    - [peepdf](https://code.google.com/p/peepdf/)
+    - [peepdf](https://github.com/jesparza/peepdf)
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.org/en/latest/index.html)
