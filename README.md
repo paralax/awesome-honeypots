@@ -31,12 +31,14 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) Honeypot - Simple spam prevention package for Laravel applications
     - [stack-honeypot](https://github.com/CHH/stack-honeypot) Inserts a trap for spam bots into responses
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) Honeypot type for Symfony2 forms
+    - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
     - [honeyntp](https://github.com/fygrave/honeyntp) 0 NTP logger/honeypot
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) 0 observation camera honeypot
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
+    - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot
 
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
@@ -48,6 +50,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     
 - Deployment
     - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/)
+    - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a Honey Pot Pi
 
 - Data Analysis
     - [Kippo-Graph](http://bruteforce.gr/kippo-graph)
@@ -184,7 +187,7 @@ A curated list of awesome honeypots, tools, components and much more. The list i
     - [Dionaea](http://dionaea.carnivore.it/)
     - [Conpot](http://conpot.org/)
     - [Bifrozt](http://sourceforge.net/projects/bifrozt/)
-    - [Beeswarm](http://www.beeswarm-ids.org/)
+    - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy
     - [Bait and Switch](http://baitnswitch.sourceforge.net)
     - [Artillery](https://github.com/trustedsec/artillery/)
     - [Amun](http://amunhoney.sourceforge.net)
