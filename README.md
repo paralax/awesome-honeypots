@@ -335,6 +335,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - SSH Honeypot
     - [Kojoney](http://kojoney.sourceforge.net/)
+    - [Cowrie](https://github.com/micheloosterhof/cowrie)
 
 - Glastopf data analysis
     - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
