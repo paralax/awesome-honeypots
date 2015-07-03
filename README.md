@@ -412,6 +412,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Dockerized Low Interaction packaging
     - [Manuka](https://github.com/andrewmichaelsmith/manuka)
+    - [Dockerized Thug](https://registry.hub.docker.com/u/honeynet/thug/)
 
 - Network analysis
     - [Quechua](https://bitbucket.org/zaccone/quechua)
