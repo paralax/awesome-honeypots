@@ -6,6 +6,14 @@ There is no pre-established order of items in each category, the order is for co
 
 Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
+### Sections
+
+- [Honeypots](#honeypots)
+- [Honeyd Tools](#honeyd)
+- [Network and Artifact Analysis](#analysis)
+- [Data Tools](#visualizers)
+- [Guides](#guides)
+
 ## Related Lists
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools), useful in network traffic analysis
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis), with some overlap here for artifact analysis
@@ -235,6 +243,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Controlled-relay spam honeypot
     - [Shiva](https://github.com/shiva-spampot/shiva)
+        - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Visualization Tool
     - [Webviz](not working)
@@ -475,3 +484,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap)
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt)
+
+## <a name="guides"></a>Guides
+
+- [T-Pot: A Multi-Honeypot Platform](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
+- [Honeypot (Dionaea and kippo) setup script](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
