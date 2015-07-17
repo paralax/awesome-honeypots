@@ -150,6 +150,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - spamtrap
     - [Jackpot Mailswerver](http://jackpot.uk.net/)
+    - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
 
 - System instrumentation
     - [Sysdig](http://www.sysdig.org)
