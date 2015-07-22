@@ -230,8 +230,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Pehunter](http://src.carnivore.it/pehunter/)
 
 - Data Collection / Data Sharing
-    - [HPfriends](http://hpfriends.honeycloud.net/#/home)
-    - [HPFeeds](https://github.com/rep/hpfeeds/)
+    - [HPfriends](http://hpfriends.honeycloud.net/#/home) - data-sharing platform
+    - [HPFeeds](https://github.com/rep/hpfeeds/) - lightweight authenticated publish-subscribe protocol
 
 - PE-executables analyses
     - [Xandora](http://www.xandora.net/xangui/)
