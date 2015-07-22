@@ -395,6 +395,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://www.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
     - [SMTPot.py](http://llama.whoi.edu/smtpot.py)
+    - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
 
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
