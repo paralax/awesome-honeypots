@@ -73,6 +73,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Mantrap / Symantec Decoy Server](http://www.systemhouse.com/symantec/sds.htm)
     - [BigEye](http://violating.us/projects/bigeye/)
     - [BackOfficer Friendly](http://www.nfr.com/resource/backOfficer.php)
+    - [Open Canary](https://pypi.python.org/pypi/opencanary) A low interaction honeypot intended to be run on internal networks.
 
 - Proxy honeypot
     - [Proxypot](http://proxypot.spamteam.nl)
