@@ -34,7 +34,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [servlet](https://github.com/schmalle/Servletpot) - Webapplication Honeypot
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
-    - [Shadow Daemon](https://shadowd.zecure.org)
+    - [Shadow Daemon](https://shadowd.zecure.org) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps
     - [Servletpot](http://github.com/schmalle/servletpot) - Webapplication Honeypot
     - [Google Hack Honeypot](http://ghh.sourceforge.net)
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
