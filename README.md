@@ -39,17 +39,17 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconaissance against attackers that use search engines as a hacking tool against your resources. 
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - Wordpress plugin to reduce comment spam with a smarter honeypot
-    - [wordpot](https://github.com/gbrindisi/wordpot) A Wordpress Honeypot
+    - [wordpot](https://github.com/gbrindisi/wordpot) - A Wordpress Honeypot
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit
-    - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) Honeypot - Simple spam prevention package for Laravel applications
-    - [stack-honeypot](https://github.com/CHH/stack-honeypot) Inserts a trap for spam bots into responses
-    - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) Honeypot type for Symfony2 forms
+    - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications
+    - [stack-honeypot](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses
+    - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms
     - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
-    - [honeyntp](https://github.com/fygrave/honeyntp) 0 NTP logger/honeypot
-    - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) 0 observation camera honeypot
+    - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot
+    - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot
 
@@ -74,7 +74,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Mantrap / Symantec Decoy Server](http://www.systemhouse.com/symantec/sds.htm)
     - [BigEye](http://violating.us/projects/bigeye/)
     - [BackOfficer Friendly](http://www.nfr.com/resource/backOfficer.php)
-    - [Open Canary](https://pypi.python.org/pypi/opencanary) A low interaction honeypot intended to be run on internal networks.
+    - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
 
 - Proxy honeypot
     - [Proxypot](http://proxypot.spamteam.nl)
