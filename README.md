@@ -36,9 +36,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
     - [Shadow Daemon](https://shadowd.zecure.org) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps
     - [Servletpot](http://github.com/schmalle/servletpot) - Webapplication Honeypot
-    - [Google Hack Honeypot](http://ghh.sourceforge.net)
+    - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconaissance against attackers that use search engines as a hacking tool against your resources. 
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
-    - [PHPHop](http://rstack.org/phphop/)    
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - Wordpress plugin to reduce comment spam with a smarter honeypot
     - [wordpot](https://github.com/gbrindisi/wordpot) A Wordpress Honeypot
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit
@@ -59,15 +58,15 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - ICS/SCADA honeypots
     - [Conpot](https://github.com/glastopf/conpot) - ICS/SCADA honeypot
-    - [scada-honeynet](http://www.digitalbond.com/tools/scada-honeynet/)
-    - [SCADA honeynet](http://scadahoneynet.sourceforge.net)
+    - [scada-honeynet](http://www.digitalbond.com/tools/scada-honeynet/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices
+    - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks
     
 - Deployment
-    - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/)
+    - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - a tutorial on setting up Dionaea on an EC2 instance 
     - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a Honey Pot Pi
 
 - Data Analysis
-    - [Kippo-Graph](http://bruteforce.gr/kippo-graph)
+    - [Kippo-Graph](http://bruteforce.gr/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot 
     - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot
 
 - Other/random
