@@ -88,51 +88,47 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeynet statistics
     - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet
 
-- Visual analsysis for network traffic
-    - [Picviz](http://www.wallinfire.net/picviz)
-
 - dynamic code instrumentation toolkit
-    - [Frida](http://www.frida.re)
+    - [Frida](http://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android
 
 - Front-end for dionaea
-    - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR)
+    - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot
 
 - Tool to convert website to server honeypots
-    - [HIHAT](http://hihat.sourceforge.net/)
+    - [HIHAT](http://hihat.sourceforge.net/) - ransform arbitrary PHP applications into web-based high-interaction Honeypots
 
 - Malware collector
-    - [Kippo-Malware](http://bruteforce.gr/kippo-malware)
+    - [Kippo-Malware](http://bruteforce.gr/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database
 
 - Sebek in QEMU
-    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek)
+    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot
 
 - Malware Simulator
     - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator
 
 - Distributed sensor deployment
-    - [Sombria](http://www.lac.co.jp/business/sns/intelligence/sombria_e.html)
-    - [Smarthoneypot](http://smarthoneypot.com)
+    - [Smarthoneypot](http://smarthoneypot.com) - custom honeypot intelligence system that is simple to deploy and easy to manage 
 
 - Network Analysis Tool
-    - [Tracexploit](https://code.google.com/p/tracexploit/)
+    - [Tracexploit](https://code.google.com/p/tracexploit/) - replay network packets
 
 - Log anonymizer
-    - [LogAnon](http://code.google.com/p/loganon/)
+    - [LogAnon](http://code.google.com/p/loganon/) - log anonymization library that helps having anonymous logs consistent between logs and network captures 
 
 - server
-    - [Honeysink](http://www.honeynet.org/node/773)
+    - [Honeysink](http://www.honeynet.org/node/773) - open source network sinkhole that provides a mechanism for detection and prevention of malicious traffic on a given network 
 
 - Botnet traffic detection
-    - [dnsMole](https://code.google.com/p/dns-mole/)
+    - [dnsMole](https://code.google.com/p/dns-mole/) -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts
 
 - Low interaction honeypot (router back door)
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764)
 
 - honeynet farm traffic redirector
-    - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole)
+    - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole) - eploy multiple sensors that redirect traffic to a centralized collection of honeypots 
 
 - IDS signature generator
-    - [Nebula](http://nebula.carnivore.it/)
+    - [Nebula](http://nebula.carnivore.it/) - network intrusion signature generator
 
 - Fake wireless access point
     - [FakeAP](http://www.blackalchemy.to/project/fakeap/)
