@@ -71,13 +71,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system
-    - [Mantrap / Symantec Decoy Server](http://www.systemhouse.com/symantec/sds.htm)
-    - [BigEye](http://violating.us/projects/bigeye/)
-    - [BackOfficer Friendly](http://www.nfr.com/resource/backOfficer.php)
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
-
-- Proxy honeypot
-    - [Proxypot](http://proxypot.spamteam.nl)
 
 - Open Relay Spam Honeypot
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
@@ -86,17 +80,13 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Hale](http://github.com/pjlantz/Hale) - Botnet command &amp; control monitor
 
 - IPv6 attack detection tool
-    - [ipv6-guard](https://www.honeynet.org/gsoc2012/slot8)
     - [ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector/)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization
 
-- Honeypot Database
-    - [Manuka](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCgQFjAB&url=https%3A%2F%2Fstaff.washington.edu%2Fdittrich%2Ftalks%2Fieee-ia-manuka.ppt&ei=nS1fVdDjJeL9ywP5soG4Cg&usg=AFQjCNGTVLU6WQe04DdUd1jzVx3Fmwi6Xg&bvm=bv.93990622,d.bGQ)
-
 - Research Paper
-    - [vEYE](http://link.springer.com/article/10.1007%2Fs10115-008-0137-3)
+    - [vEYE](http://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - behavioral footprinting for self-propagating worm detection and profiling
 
 - Honeynet statistics
-    - [HoneyStats](http://sourceforge.net/projects/honeystats/)
+    - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet
 
 - Visual analsysis for network traffic
     - [Picviz](http://www.wallinfire.net/picviz)
