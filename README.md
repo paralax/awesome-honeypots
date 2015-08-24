@@ -130,34 +130,30 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - IDS signature generator
     - [Nebula](http://nebula.carnivore.it/) - network intrusion signature generator
 
-- Fake wireless access point
-    - [FakeAP](http://www.blackalchemy.to/project/fakeap/)
-
 - HTTPS Proxy
-    - [mitmproxy](http://mitmproxy.org/)
+    - [mitmproxy](http://mitmproxy.org/) - allows traffic flows to be intercepted, inspected, modified and replayed 
 
 - spamtrap
-    - [Jackpot Mailswerver](http://jackpot.uk.net/)
     - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
 
 - System instrumentation
-    - [Sysdig](http://www.sysdig.org)
+    - [Sysdig](http://www.sysdig.org) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze 
 
 - Honeypot for USB-spreading malware
-    - [Ghost-usb](https://code.google.com/p/ghost-usb-honeypot/)
+    - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) -  honeypot for malware that propagates via USB storage devices
 
 - Data Collection
-    - [Kippo2MySQL](http://bruteforce.gr/kippo2mysql)
-    - [Kippo2ElasticSearch](http://bruteforce.gr/kippo2elasticsearch)
+    - [Kippo2MySQL](http://bruteforce.gr/kippo2mysql) -  extracts some very basic stats from Kippo’s text-based log files (a mess to analyze!) and inserts them in a MySQL database 
+    - [Kippo2ElasticSearch](http://bruteforce.gr/kippo2elasticsearch) - Python script to transfer data from a Kippo SSH honeypot MySQL database to an ElasticSearch instance (server or cluster) 
 
 - Passive network audit framework parser
     - [pnaf](https://github.com/jusafing/pnaf) - Passive Network Audit Framework
 
 - VM Introspection
-    - [VIX virtual machine introspection toolkit](http://assert.uaf.edu/research/vmi.html)
-    - [xenaccess](https://code.google.com/p/xenaccess/)
-    - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf)
-    - [vmitools](http://libvmi.com/)
+    - [VIX virtual machine introspection toolkit](http://assert.uaf.edu/research/vmi.html) - VMI toolkit for Xen, called Virtual Introspection for Xen (VIX) 
+    - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based
+High-Interaction Honeypots 
+    - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine 
 
 - Binary debugger
     - [Hexgolems - Schem Debugger Frontend](https://github.com/hexgolems/schem) - A debugger frontend
