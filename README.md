@@ -164,30 +164,29 @@ High-Interaction Honeypots
     - [Androguard](https://code.google.com/p/androguard/)
 
 - Low interaction honeypot
-    - [Honeypoint](http://microsolved.com/?page_id=69)
-    - [Honeyperl](http://sourceforge.net/projects/honeyperl/)
+    - [Honeypoint](http://microsolved.com/HoneyPoint-server.html) - platform of distributed honeypot technologies 
+    - [Honeyperl](http://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc 
 
 - Honeynet data fusion
-    - [HFlow2](https://projects.honeynet.org/hflow)
+    - [HFlow2](https://projects.honeynet.org/hflow) -  data coalesing tool for honeynet/network analysis 
 
 - Server
-    - [Tiny Honeypot](http://www.alpinista.org/thp/  -> http://web.archive.org/web/20090606073121/http://www.alpinista.org/files/thp/)
-    - [Nephenthes](http://nepenthes.carnivore.it//)
-    - [LaBrea](http://labrea.sourceforge.net/labrea-info.html)
+    - [Nephenthes](http://nepenthes.carnivore.it//) - versatile tool to collect malware 
+    - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet. 
     - [Kippo](https://github.com/desaster/kippo) - SSH honeypot
-    - [KFSensor](http://www.keyfocus.net/kfsensor/)
-    - [Honeytrap](http://honeytrap.carnivore.it/)
+    - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS) 
+    - [Honeytrap](http://honeytrap.carnivore.it/) -  low-interaction honeypot daemon for observing attacks against network services 
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd)
-    - [Honeeebox](http://honeeebox.net)
-    - [Glastopf](http://glastopf.org/)
+    - [Honeeebox](http://honeeebox.net) - Honeypotting on the Asus EEE
+    - [Glastopf](http://glastopf.org/) - Honeypot which emulates thousands of vulnerabilities to gather data from attacks targeting web applications 
     - [DNS Honeypot](https://github.com/jekil/UDPot) - Simple UDP honeypot scripts
-    - [Dionaea](http://dionaea.carnivore.it/)
-    - [Conpot](http://conpot.org/)
-    - [Bifrozt](http://sourceforge.net/projects/bifrozt/)
+    - [Dionaea](http://dionaea.carnivore.it/) - nepenthes successor, embedding python as scripting language, using libemu to detect shellcodes, supporting ipv6 and tls 
+    - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot  
+    - [Bifrozt](http://sourceforge.net/projects/bifrozt/) - High interaction honeypot solution for Linux based systems
     - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy
-    - [Bait and Switch](http://baitnswitch.sourceforge.net)
-    - [Artillery](https://github.com/trustedsec/artillery/)
-    - [Amun](http://amunhoney.sourceforge.net)
+    - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system 
+    - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods 
+    - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot
 
 - VM cloaking script
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection)
