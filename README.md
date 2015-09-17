@@ -467,7 +467,7 @@ High-Interaction Honeypots
 ## <a name="visualizers"></a> Data Tools
 
 - Front Ends
-    - [Tango](https://github.com/aplura/Tango) Tango - Honeypot Intelligence with Splunk
+    - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot
 
 - Visualization
