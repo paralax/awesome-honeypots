@@ -88,7 +88,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeynet statistics
     - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet
 
-- dynamic code instrumentation toolkit
+- Dynamic code instrumentation toolkit
     - [Frida](http://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android
 
 - Front-end for dionaea
@@ -108,6 +108,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor deployment
     - [Smarthoneypot](http://smarthoneypot.com) - custom honeypot intelligence system that is simple to deploy and easy to manage 
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management
 
 - Network Analysis Tool
     - [Tracexploit](https://code.google.com/p/tracexploit/) - replay network packets
