@@ -454,7 +454,7 @@ High-Interaction Honeypots
 
 - Sandbox
     - [PHPSandbox](http://www.fieryprophet.com/phpsandbox)
-    - [RFISandbox](http://monkey.org/~jose/software/rfi-sandbox/)
+    - [RFISandbox](http://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)
     - [dorothy2](https://github.com/m4rco-/dorothy2)
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
 
