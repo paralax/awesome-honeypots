@@ -453,17 +453,15 @@ High-Interaction Honeypots
 ## <a name="analysis"></a> Network and Artifact Analysis
 
 - Sandbox
-    - [PHPSandbox](http://www.fieryprophet.com/phpsandbox)
     - [RFISandbox](http://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)
-    - [dorothy2](https://github.com/m4rco-/dorothy2)
+    - [dorothy2](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
-
-- Sandbox
-    - [Argos](http://www.few.vu.nl/argos/)
+    - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
 
 - Sandbox-as-a-Service
     - [malwr.com](http://malwr.com) - free malware analysis service and community
     - [detux.org](http://detux.org) - Multiplatform Linux Sandbox
+    - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities
 
 ## <a name="visualizers"></a> Data Tools
 
