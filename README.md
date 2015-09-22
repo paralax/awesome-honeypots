@@ -445,10 +445,11 @@ High-Interaction Honeypots
     - [Honeyd-Viz](http://bruteforce.gr/honeyd-viz)
 
 - Honeyd UI
-    - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/)
+    - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/) - application used to configure
+the honeyd daemon and generate configuration files
 
 - Honeyd stats
-    - [Honeydsum.pl](http://www.honeynet.org.br/)
+    - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl) 
 
 ## <a name="analysis"></a> Network and Artifact Analysis
 
@@ -470,8 +471,8 @@ High-Interaction Honeypots
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot
 
 - Visualization
-    - [HoneyMap](https://github.com/fw42/honeymap)
-    - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt)
+    - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map 
+    - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems
 
 ## <a name="guides"></a>Guides
 
