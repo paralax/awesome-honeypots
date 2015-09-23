@@ -163,7 +163,7 @@ High-Interaction Honeypots
 
 - Mobile Analysis Tool
     - [APKinspector](https://github.com/honeynet/apkinspector/) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications
-    - [Androguard](https://code.google.com/p/androguard/)
+    - [Androguard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more
 
 - Low interaction honeypot
     - [Honeypoint](http://microsolved.com/HoneyPoint-server.html) - platform of distributed honeypot technologies 
@@ -191,16 +191,14 @@ High-Interaction Honeypots
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot
 
 - VM cloaking script
-    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection)
+    - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder
+
 
 - IDS signature generation
     - [Honeycomb](http://www.cl.cam.ac.uk/~cpk25/honeycomb/)
 
 - Multiple
     - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki)
-
-- Web interface to packet analyzer
-    - [OpenWitness](https://github.com/oguzy/openwitness)
 
 - lookup service for AS-numbers and prefixes
     - [CC2ASN](http://www.cc2asn.com/)
@@ -209,7 +207,7 @@ High-Interaction Honeypots
     - [Carniwwwhore](http://carnivore.it/2010/11/27/carniwwwhore)
 
 - Web interface (for Thug)
-    - [Rumal](https://github.com/pdelsante/rumal)
+    - [Rumal](https://github.com/pdelsante/rumal) - Thug's Rumāl: a Thug's dress & weapon
 
 - Snort binary carving
     - [Pehunter](http://src.carnivore.it/pehunter/)
@@ -225,14 +223,13 @@ High-Interaction Honeypots
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Python bindings for libemu
-    - [Pylibemu](https://github.com/buffer/pylibemu)
+    - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper
 
 - Controlled-relay spam honeypot
-    - [Shiva](https://github.com/shiva-spampot/shiva)
+    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Visualization Tool
-    - [Webviz](not working)
     - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
     - [Afterglow Cloud](http://afterglow.secviz.org/)
     - [Afterglow](http://afterglow.sourceforge.net/)
