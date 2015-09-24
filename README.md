@@ -350,6 +350,7 @@ High-Interaction Honeypots
 
 - Honeypot sensor
     - [Dragon Research Group Distro](https://www.dragonresearchgroup.org/drg-distro.html)
+    - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeeepi is a honeypot sensor on Raspberry Pi which based on customized Raspbian OS.
 
 - File carving
     - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
