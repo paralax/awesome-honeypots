@@ -197,9 +197,6 @@ High-Interaction Honeypots
 - IDS signature generation
     - [Honeycomb](http://www.cl.cam.ac.uk/~cpk25/honeycomb/)
 
-- Multiple
-    - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki)
-
 - lookup service for AS-numbers and prefixes
     - [CC2ASN](http://www.cc2asn.com/)
 
