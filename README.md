@@ -29,13 +29,13 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [ESPot](https://github.com/mycert/ESPot) - ElasticSearch Honeypot
 
 - Web honeypots
-    - [Glastopf](https://github.com/glastopf/glastopf) - Web Application Honeypot
+    - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpmyadmin honeypot
     - [servlet](https://github.com/schmalle/Servletpot) - Webapplication Honeypot
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
     - [Shadow Daemon](https://shadowd.zecure.org) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps
-    - [Servletpot](http://github.com/schmalle/servletpot) - Webapplication Honeypot
+    - [Servletpot](https://github.com/schmalle/servletpot) - Webapplication Honeypot
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconaissance against attackers that use search engines as a hacking tool against your resources. 
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - Wordpress plugin to reduce comment spam with a smarter honeypot
@@ -77,7 +77,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
 
 - Botnet C2 monitor
-    - [Hale](http://github.com/pjlantz/Hale) - Botnet command &amp; control monitor
+    - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor
 
 - IPv6 attack detection tool
     - [ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector/)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization
@@ -107,7 +107,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator
 
 - Distributed sensor deployment
-    - [Smarthoneypot](http://smarthoneypot.com) - custom honeypot intelligence system that is simple to deploy and easy to manage 
+    - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage 
     - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management
     - [ADHD](http://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured
 
@@ -195,7 +195,7 @@ High-Interaction Honeypots
 
 
 - IDS signature generation
-    - [Honeycomb](http://www.cl.cam.ac.uk/~cpk25/honeycomb/)
+    - [Honeycomb](http://www.icir.org/christian/honeycomb/)
 
 - lookup service for AS-numbers and prefixes
     - [CC2ASN](http://www.cc2asn.com/)
@@ -245,7 +245,7 @@ High-Interaction Honeypots
     - [SurfIDS](http://ids.surfnet.nl/)
 
 - Honeynet analysis tool
-    - [Honeynet Security Console](http://www.activeworx.org/programs/hsc/index.htm)
+    - [Honeynet Security Console](http://www.tripwire.com/programs/hsc/)
 
 - Automated malware analysis system
     - [Cuckoo](http://www.cuckoosandbox.org/)
@@ -278,10 +278,10 @@ High-Interaction Honeypots
     - [Shelia](http://www.cs.vu.nl/~herbertb/misc/shelia/)
     - [PhoneyC](https://github.com/honeynet/phoneyc)
     - [Libemu](http://libemu.carnivore.it/)
-    - [Jsunpack-n](https://code.google.com/p/jsunpack-n/)
+    - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [HoneyC](https://projects.honeynet.org/honeyc)
-    - [HoneyBOT](http://www.atomicsoftwaresolutions.com/honeybot.php)
-    - [CWSandbox / GFI Sandbox](http://www.gfi.com/malware-analysis-tool)
+    - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
+    - [CWSandbox / GFI Sandbox](http://www.gfi.com/products-and-solutions/all-products)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
     - [Andrubis](https://anubis.iseclab.org/)
@@ -300,7 +300,7 @@ High-Interaction Honeypots
     - [Single-honeypot](http://sourceforge.net/projects/single-honeypot/)
     - [Honeyd For Windows](http://www.securityprofiling.com/honeyd/honeyd.shtml)
     - [SWiSH](http://shat.net/swish/)
-    - [IMHoneypot](https://github.com/glastopf/imhoneypot)
+    - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
     - [Cybercop Sting](http://www.nai.com/international/uk/asp_set/products/tns/ccsting_intro.asp)
 
@@ -353,7 +353,7 @@ High-Interaction Honeypots
     - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
 
 - File and Network Threat Intelligence
-    - [VirusTotal](http://virustotal.com)
+    - [VirusTotal](https://www.virustotal.com/)
 
 - data capture
     - [Sebek](https://projects.honeynet.org/sebek/)
@@ -379,12 +379,12 @@ High-Interaction Honeypots
 
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
-    - [Smoke Detector](http://palisadesys.com/products/smokedetector/)
+    - [Smoke Detector](http://palisadesystems.com/products/smokedetector/)
     - [Sandtrap](http://www.sandstorm.net/products/sandtrap/)
     - [PatriotBox](http://www.alkasis.com/?fuseaction=products.info&id=20)
-    - [PacketDecoy](http://palisadesys.com/products/packetdecoy/)
+    - [PacketDecoy](http://palisadesystems.com/products/packetdecoy/)
     - [NetFacade](http://www22.verizon.com/fns/solutions/netsec/netsec_netfacade.html)
-    - [Netbait](http://www.netbaitinc.com)
+    - [Netbait](http://netbaitinc.com/)
 
 - Server (Bluetooth)
     - [Bluepot](http://code.google.com/p/bluepot/)
@@ -394,7 +394,7 @@ High-Interaction Honeypots
 
 - Dockerized Low Interaction packaging
     - [Manuka](https://github.com/andrewmichaelsmith/manuka)
-    - [Dockerized Thug](https://registry.hub.docker.com/u/honeynet/thug/)
+    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/)
     - [Dockerpot](https://github.com/mrschyte/dockerpot) A docker based honeypot.
     - [Docker honeynet](https://github.com/sreinhardt/Docker-Honeynet) Several Honeynet tools set up for Docker containers
 
@@ -455,7 +455,7 @@ the honeyd daemon and generate configuration files
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
 
 - Sandbox-as-a-Service
-    - [malwr.com](http://malwr.com) - free malware analysis service and community
+    - [malwr.com](https://malwr.com/) - free malware analysis service and community
     - [detux.org](http://detux.org) - Multiplatform Linux Sandbox
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities
 
