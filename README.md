@@ -131,9 +131,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - honeynet farm traffic redirector
     - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole) - eploy multiple sensors that redirect traffic to a centralized collection of honeypots 
 
-- IDS signature generator
-    - [Nebula](http://nebula.carnivore.it/) - network intrusion signature generator
-
 - HTTPS Proxy
     - [mitmproxy](http://mitmproxy.org/) - allows traffic flows to be intercepted, inspected, modified and replayed 
 
@@ -175,16 +172,12 @@ High-Interaction Honeypots
     - [HFlow2](https://projects.honeynet.org/hflow) -  data coalesing tool for honeynet/network analysis 
 
 - Server
-    - [Nephenthes](http://nepenthes.carnivore.it//) - versatile tool to collect malware 
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet. 
     - [Kippo](https://github.com/desaster/kippo) - SSH honeypot
-    - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS) 
-    - [Honeytrap](http://honeytrap.carnivore.it/) -  low-interaction honeypot daemon for observing attacks against network services 
+    - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS)
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd)
-    - [Honeeebox](http://honeeebox.net) - Honeypotting on the Asus EEE
     - [Glastopf](http://glastopf.org/) - Honeypot which emulates thousands of vulnerabilities to gather data from attacks targeting web applications 
     - [DNS Honeypot](https://github.com/jekil/UDPot) - Simple UDP honeypot scripts
-    - [Dionaea](http://dionaea.carnivore.it/) - nepenthes successor, embedding python as scripting language, using libemu to detect shellcodes, supporting ipv6 and tls 
     - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot  
     - [Bifrozt](http://sourceforge.net/projects/bifrozt/) - High interaction honeypot solution for Linux based systems
     - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy
@@ -202,21 +195,12 @@ High-Interaction Honeypots
 - lookup service for AS-numbers and prefixes
     - [CC2ASN](http://www.cc2asn.com/)
 
-- Data Collection / Analysis Tool
-    - [Carniwwwhore](http://carnivore.it/2010/11/27/carniwwwhore)
-
 - Web interface (for Thug)
     - [Rumal](https://github.com/pdelsante/rumal) - Thug's Rumāl: a Thug's dress & weapon
-
-- Snort binary carving
-    - [Pehunter](http://src.carnivore.it/pehunter/)
 
 - Data Collection / Data Sharing
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - data-sharing platform
     - [HPFeeds](https://github.com/rep/hpfeeds/) - lightweight authenticated publish-subscribe protocol
-
-- PE-executables analyses
-    - [Xandora](http://www.xandora.net/xangui/)
 
 - Distributed spam tracking
     - [Project Honeypot](https://www.projecthoneypot.org)
@@ -230,7 +214,7 @@ High-Interaction Honeypots
 
 - Visualization Tool
     - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
-    - [Afterglow Cloud](http://afterglow.secviz.org/)
+    - [Afterglow Cloud](https://github.com/ayrus/afterglow-cloud)
     - [Afterglow](http://afterglow.sourceforge.net/)
 
 - central management tool
@@ -245,9 +229,6 @@ High-Interaction Honeypots
 - Honeypot deployment
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/)
     - [SurfIDS](http://ids.surfnet.nl/)
-
-- Honeynet analysis tool
-    - [Honeynet Security Console](http://www.tripwire.com/programs/hsc/)
 
 - Automated malware analysis system
     - [Cuckoo](http://www.cuckoosandbox.org/)
@@ -267,7 +248,7 @@ High-Interaction Honeypots
     - [Acapulco](https://github.com/hgascon/Acapulco4HNP)
 
 - Telephony honeypot
-    - [Zapping Rachel](https://seanmckaybeck.com/2014/08/17/zapping-rachel/)
+    - [Zapping Rachel](https://seanmckaybeck.com/zapping-rachel.html)
 
 - Client
     - [Pwnypot](https://github.com/shjalayeri/pwnypot)
@@ -279,7 +260,6 @@ High-Interaction Honeypots
     - [Thug](https://buffer.github.io/thug/)
     - [Shelia](http://www.cs.vu.nl/~herbertb/misc/shelia/)
     - [PhoneyC](https://github.com/honeynet/phoneyc)
-    - [Libemu](http://libemu.carnivore.it/)
     - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [HoneyC](https://projects.honeynet.org/honeyc)
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
@@ -288,12 +268,8 @@ High-Interaction Honeypots
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
     - [Andrubis](https://anubis.iseclab.org/)
 
-- Commercial high interaction honeypot
-    - [Countertack Scout](http://www.countertack.com/countertack-scout)
-
 - Visual analysis for network traffic
-    - [ovizart-ng](https://github.com/honeynet/ovizart-ng)
-    - [ovizart](https://github.com/honeynet/ovizart)
+    - [ovizart](https://github.com/oguzy/ovizart)
 
 - Binary Management and Analysis Framework
     - [Viper](http://viper.li/)
@@ -301,10 +277,8 @@ High-Interaction Honeypots
 - Honeypot
     - [Single-honeypot](http://sourceforge.net/projects/single-honeypot/)
     - [Honeyd For Windows](http://www.securityprofiling.com/honeyd/honeyd.shtml)
-    - [SWiSH](http://shat.net/swish/)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
-    - [Cybercop Sting](http://www.nai.com/international/uk/asp_set/products/tns/ccsting_intro.asp)
 
 - PDF document inspector
     - [peepdf](https://github.com/jesparza/peepdf)
@@ -376,20 +350,14 @@ High-Interaction Honeypots
     - [Spampot.py](http://woozle.org/%7Eneale/src/python/spampot.py)
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://www.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
-    - [SMTPot.py](http://llama.whoi.edu/smtpot.py)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
 
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
-    - [Smoke Detector](http://palisadesystems.com/products/smokedetector/)
-    - [Sandtrap](http://www.sandstorm.net/products/sandtrap/)
-    - [PatriotBox](http://www.alkasis.com/?fuseaction=products.info&id=20)
-    - [PacketDecoy](http://palisadesystems.com/products/packetdecoy/)
-    - [NetFacade](http://www22.verizon.com/fns/solutions/netsec/netsec_netfacade.html)
     - [Netbait](http://netbaitinc.com/)
 
 - Server (Bluetooth)
-    - [Bluepot](http://code.google.com/p/bluepot/)
+    - [Bluepot](http://andrewmichaelsmith.com/bluepot/)
 
 - Dynamic analysis of Android apps
     - [Droidbox](https://code.google.com/p/droidbox/)
@@ -405,9 +373,6 @@ High-Interaction Honeypots
 
 - Sebek data visualization
     - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4)
-
-- Threat Intel feed aggregator / network grapher
-    - [Malcom](http://malcom.io)
 
 - SIP Server
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
@@ -431,12 +396,6 @@ High-Interaction Honeypots
 
 - Honeyd to MySQL connector
     - [Honeyd2MySQL](http://bruteforce.gr/honeyd2mysql)
-
-- Bootable honeyd
-    - [HOACD](http://www.honeynet.org.br/tools/)
-
-- Honeyd ported to Windows
-    - [Winhoneyd](http://www2.netvigilance.com/winhoneyd)
 
 - A script to visualize statistics from honeyd
     - [Honeyd-Viz](http://bruteforce.gr/honeyd-viz)
