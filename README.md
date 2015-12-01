@@ -72,8 +72,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot
 
 - Other/random
-    - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system
+    - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
+    - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
 
 - Open Relay Spam Honeypot
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
