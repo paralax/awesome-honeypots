@@ -36,7 +36,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
     - [Shadow Daemon](https://shadowd.zecure.org) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps
     - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot
-    - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconaissance against attackers that use search engines as a hacking tool against your resources.
+    - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot
     - [HonnyPotter](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot
