@@ -30,7 +30,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Web honeypots
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot
-    - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpmyadmin honeypot
+    - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot
     - [servlet](https://github.com/schmalle/Servletpot) - Webapplication Honeypot
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot
