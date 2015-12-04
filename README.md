@@ -55,6 +55,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot
+    - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
 
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
