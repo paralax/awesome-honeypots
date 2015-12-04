@@ -235,6 +235,7 @@ High-Interaction Honeypots
 - Automated malware analysis system
     - [Cuckoo](http://www.cuckoosandbox.org/)
     - [Anubis](https://anubis.iseclab.org/)
+    - [Hybrid Analysis](https://www.hybrid-analysis.com)
 
 - Low interaction
     - [mwcollectd](http//git.mwcollect.org/mwcollectd)
