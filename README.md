@@ -48,6 +48,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts
 
 - Service Honeypots
+    - [rdpy](https://github.com/citronneur/rdpy) - Python implementation of the Microsoft RDP: RDP Recording Proxy / RDP Honeypot / RDP screenshoter
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot
