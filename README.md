@@ -49,6 +49,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Service Honeypots
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
+       - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
+       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
