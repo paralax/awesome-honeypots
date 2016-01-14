@@ -25,7 +25,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Database Honeypots
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot
     - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage
-    - [A framework for nosql databases ( only redis for now)](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework
+    - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [ESPot](https://github.com/mycert/ESPot) - ElasticSearch Honeypot
 
 - Web honeypots
