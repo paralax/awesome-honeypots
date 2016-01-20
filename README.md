@@ -64,7 +64,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot](https://github.com/glastopf/conpot) - ICS/SCADA honeypot
+    - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
     - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets 
     - [scada-honeynet](http://www.digitalbond.com/tools/scada-honeynet/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks
@@ -238,7 +238,7 @@ High-Interaction Honeypots
     - [SurfIDS](http://ids.surfnet.nl/)
 
 - Automated malware analysis system
-    - [Cuckoo](http://www.cuckoosandbox.org/)
+    - [Cuckoo](https://cuckoosandbox.org/)
     - [Anubis](https://anubis.iseclab.org/)
     - [Hybrid Analysis](https://www.hybrid-analysis.com)
 
