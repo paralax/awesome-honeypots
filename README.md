@@ -191,10 +191,10 @@ High-Interaction Honeypots
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system
     - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot
+    - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot
 
 - VM cloaking script
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder
-
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/)
@@ -308,7 +308,9 @@ High-Interaction Honeypots
 
 - SSH Honeypot
     - [Kojoney](http://kojoney.sourceforge.net/)
-    - [Cowrie](https://github.com/micheloosterhof/cowrie)
+    - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
+    - [sshlowpot](https://github.com/kd5pbo/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
+    - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
 
 - Glastopf data analysis
     - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
@@ -317,13 +319,13 @@ High-Interaction Honeypots
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
     - [Distributed Web Honeypot Project](http://projects.webappsec.org/w/page/29606603/Distributed%20Web%20Honeypots)
 
-- a pcap analyzer
+- A pcap analyzer
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
 
 - Client Web crawler
     - [HoneySpider Network](https://github.com/CERT-Polska/hsn2-bundle)
 
-- network traffic redirector
+- Network traffic redirector
     - [Honeywall](https://projects.honeynet.org/honeywall/)
 
 - Honeypot Distribution with mixed content
@@ -339,7 +341,7 @@ High-Interaction Honeypots
 - File and Network Threat Intelligence
     - [VirusTotal](https://www.virustotal.com/)
 
-- data capture
+- Data capture
     - [Sebek](https://projects.honeynet.org/sebek/)
 
 - SSH proxy
@@ -359,6 +361,7 @@ High-Interaction Honeypots
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://www.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
+    - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
 
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
@@ -393,6 +396,9 @@ High-Interaction Honeypots
 
 - Malware collection
     - [Honeybow](http://honeybow.mwcollect.org/)
+    
+- IOT Honeypot
+    - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
 ## <a name="honeyd"></a> Honeyd Tools
 
@@ -435,6 +441,8 @@ the honeyd daemon and generate configuration files
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot
     -[Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot
+    - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot
+    - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms
 
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
