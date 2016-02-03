@@ -369,7 +369,7 @@ High-Interaction Honeypots
     - [Netbait](http://netbaitinc.com/)
 
 - Server (Bluetooth)
-    - [Bluepot](http://andrewmichaelsmith.com/bluepot/)
+    - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
 
 - Dynamic analysis of Android apps
     - [Droidbox](https://code.google.com/p/droidbox/)
