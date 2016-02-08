@@ -82,6 +82,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
+    - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
 
 - Open Relay Spam Honeypot
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
