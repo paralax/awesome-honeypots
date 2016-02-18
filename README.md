@@ -84,6 +84,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
+    - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 
 - Open Relay Spam Honeypot
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
