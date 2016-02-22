@@ -207,7 +207,7 @@ High-Interaction Honeypots
     - [CC2ASN](http://www.cc2asn.com/)
 
 - Web interface (for Thug)
-    - [Rumal](https://github.com/pdelsante/rumal) - Thug's Rumāl: a Thug's dress & weapon
+    - [Rumal](https://github.com/thugs-rumal/) - Thug's Rumāl: a Thug's dress & weapon
 
 - Data Collection / Data Sharing
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - data-sharing platform
