@@ -370,6 +370,7 @@ High-Interaction Honeypots
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
     - [Netbait](http://netbaitinc.com/)
+    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators
 
 - Server (Bluetooth)
     - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
