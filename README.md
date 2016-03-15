@@ -405,6 +405,9 @@ High-Interaction Honeypots
 - IOT Honeypot
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
+- Active Directory
+    - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
+
 ## <a name="honeyd"></a> Honeyd Tools
 
 - Honeyd plugin
