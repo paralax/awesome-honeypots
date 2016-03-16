@@ -312,9 +312,11 @@ High-Interaction Honeypots
 
 - SSH Honeypot
     - [Kojoney](http://kojoney.sourceforge.net/)
+    - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot](https://github.com/kd5pbo/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
+    - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
 
 - Glastopf data analysis
     - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
