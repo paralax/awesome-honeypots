@@ -61,6 +61,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot
+    - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot
+    - [honeything](https://github.com/omererdem/honeything) - HoneyThing is a honeypot for Internet of Things
 
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
