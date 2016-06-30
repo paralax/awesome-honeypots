@@ -200,6 +200,7 @@ High-Interaction Honeypots
     - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot
+    - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot
 
 - VM cloaking script
