@@ -202,6 +202,7 @@ High-Interaction Honeypots
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot
+    - [VNC-Pot](https://github.com/SepehrHml/VNC-Pot) - A low interaction VNC honeypot
 
 - VM cloaking script
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder
