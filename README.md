@@ -191,7 +191,6 @@ High-Interaction Honeypots
 
 - Server
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet.
-    - [Kippo](https://github.com/desaster/kippo) - SSH honeypot
     - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS)
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd)
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts
