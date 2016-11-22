@@ -50,21 +50,13 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
 
 - Service Honeypots
-    - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
-       - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
-       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot
     - [troje](https://github.com/dutchcoders/troje/) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
-    - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - A low interaction honeypot
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot
     - [RDPy](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python
-    - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot
-    - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot
-    - [MTPot](https://github.com/CymmetriaResearch/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware
-    - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - HoneyWRT Intrusion Detection System
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot
 
 - Distributed Honeypots
@@ -202,9 +194,12 @@ High-Interaction Honeypots
     - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system
     - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods
+    - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot
+    - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot
     - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot
+    - [MTPot](https://github.com/CymmetriaResearch/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot
     - [VNC-Pot](https://github.com/SepehrHml/VNC-Pot) - A low interaction VNC honeypot
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot
@@ -322,13 +317,17 @@ High-Interaction Honeypots
 - Sebek on Xen
     - [xebek](https://code.google.com/p/xebek/)
 
-- SSH Honeypot
+- SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
+    - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
+       - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
+       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot](https://github.com/kd5pbo/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
+    - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -372,6 +371,7 @@ High-Interaction Honeypots
     - [DAVIX](http://davix.secviz.org)
 
 - Spamtrap
+    - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     - [Spampot.py](http://woozle.org/%7Eneale/src/python/spampot.py)
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://www.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
