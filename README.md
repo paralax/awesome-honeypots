@@ -79,9 +79,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 
-- Open Relay Spam Honeypot
-    - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
-
 - Botnet C2 monitor
     - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor
 
@@ -134,9 +131,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - HTTPS Proxy
     - [mitmproxy](http://mitmproxy.org/) - allows traffic flows to be intercepted, inspected, modified and replayed
-
-- spamtrap
-    - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
 
 - System instrumentation
     - [Sysdig](http://www.sysdig.org) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze
@@ -210,15 +204,8 @@ High-Interaction Honeypots
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - data-sharing platform
     - [HPFeeds](https://github.com/rep/hpfeeds/) - lightweight authenticated publish-subscribe protocol
 
-- Distributed spam tracking
-    - [Project Honeypot](https://www.projecthoneypot.org)
-
 - Python bindings for libemu
     - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper
-
-- Controlled-relay spam honeypot
-    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
-        - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - central management tool
     - [PHARM](http://www.nepenthespharm.com/)
@@ -358,6 +345,13 @@ High-Interaction Honeypots
     - [spamd](http://www.openbsd.org/cgi-bin/man.cgi?query=spamd&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
     - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
+    - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
+    - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
+    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
+        - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
+
+- Distributed spam tracking
+    - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
     - [Specter](http://www.specter.com/default50.htm)
