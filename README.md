@@ -191,10 +191,8 @@ High-Interaction Honeypots
 
 - Server
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet.
-    - [Kippo](https://github.com/desaster/kippo) - SSH honeypot
     - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS)
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd)
-    - [Glastopf](http://glastopf.org/) - Honeypot which emulates thousands of vulnerabilities to gather data from attacks targeting web applications
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts
     - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot  
     - [Bifrozt](https://github.com/Bifrozt/bifrozt-ansible) - High interaction honeypot solution for Linux based systems
@@ -290,7 +288,6 @@ High-Interaction Honeypots
     - [CWSandbox / GFI Sandbox](http://www.gfi.com/products-and-solutions/all-products)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
-    - [Andrubis](https://anubis.iseclab.org/)
 
 - Visual analysis for network traffic
     - [ovizart](https://github.com/oguzy/ovizart)
@@ -329,9 +326,6 @@ High-Interaction Honeypots
     - [sshlowpot](https://github.com/kd5pbo/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
-
-- Glastopf data analysis
-    - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
