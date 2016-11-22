@@ -206,6 +206,7 @@ High-Interaction Honeypots
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot
     - [VNC-Pot](https://github.com/SepehrHml/VNC-Pot) - A low interaction VNC honeypot
+    - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment
 
 - VM cloaking script
