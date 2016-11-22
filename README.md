@@ -72,10 +72,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks
     - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
 
-- Data Analysis
-    - [Kippo-Graph](http://bruteforce.gr/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot
-    - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot
-
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
@@ -94,9 +90,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Research Paper
     - [vEYE](http://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - behavioral footprinting for self-propagating worm detection and profiling
-
-- Honeynet statistics
-    - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet
 
 - Dynamic code instrumentation toolkit
     - [Frida](http://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android
@@ -227,11 +220,6 @@ High-Interaction Honeypots
     - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
-- Visualization Tool
-    - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
-    - [Afterglow Cloud](https://github.com/ayrus/afterglow-cloud)
-    - [Afterglow](http://afterglow.sourceforge.net/)
-
 - central management tool
     - [PHARM](http://www.nepenthespharm.com/)
 
@@ -282,9 +270,6 @@ High-Interaction Honeypots
     - [CWSandbox / GFI Sandbox](http://www.gfi.com/products-and-solutions/all-products)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
-
-- Visual analysis for network traffic
-    - [ovizart](https://github.com/oguzy/ovizart)
 
 - Binary Management and Analysis Framework
     - [Viper](http://viper.li/)
@@ -455,13 +440,20 @@ the honeyd daemon and generate configuration files
     - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot
-    -[Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot
+    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot
     - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot
     - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms
 
 - Visualization
+    - [Kippo-Graph](http://bruteforce.gr/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot
+    - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot
+    - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet
     - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems
+    - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
+    - [Afterglow Cloud](https://github.com/ayrus/afterglow-cloud)
+    - [Afterglow](http://afterglow.sourceforge.net/)
+    - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic
 
 ## <a name="guides"></a>Guides
 
