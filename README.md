@@ -288,7 +288,6 @@ High-Interaction Honeypots
     - [CWSandbox / GFI Sandbox](http://www.gfi.com/products-and-solutions/all-products)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
-    - [Andrubis](https://anubis.iseclab.org/)
 
 - Visual analysis for network traffic
     - [ovizart](https://github.com/oguzy/ovizart)
