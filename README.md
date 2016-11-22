@@ -328,9 +328,6 @@ High-Interaction Honeypots
     - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
 
-- Glastopf data analysis
-    - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
-
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
     - [Distributed Web Honeypot Project](http://projects.webappsec.org/w/page/29606603/Distributed%20Web%20Honeypots)
