@@ -67,6 +67,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - HoneyWRT Intrusion Detection System
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) Low interaction Python honeypot
 
+- Distributed Honeypots
+    - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - A Distributed Honeypot ( Under Developement )
+
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
