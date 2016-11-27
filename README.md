@@ -416,6 +416,9 @@ High-Interaction Honeypots
 - Active Directory
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
 
+- Active Deception
+    - [HoneyBadger](https://github.com/lanmaster53/honeybadger) - HoneyBadger is an Active Defense tool to determine who the malicious actor is and where they are located
+
 ## <a name="honeyd"></a> Honeyd Tools
 
 - Honeyd plugin
