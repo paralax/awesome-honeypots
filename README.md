@@ -50,6 +50,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
 
 - Service Honeypots
+    - [Cowrie](https://github.com/micheloosterhof/cowrie) - Medium interaction SSH honeypot, continuation of Kippo project.
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
        - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
