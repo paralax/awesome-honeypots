@@ -65,7 +65,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot
     - [MTPot](https://github.com/CymmetriaResearch/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - HoneyWRT Intrusion Detection System
-    - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) Low interaction Python honeypot
+    - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot
+    - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server
 
 - Anti-honeypot stuff
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
