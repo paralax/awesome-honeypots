@@ -27,6 +27,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [ESPot](https://github.com/mycert/ESPot) - ElasticSearch Honeypot
+    - [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python
 
 - Web honeypots
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot
