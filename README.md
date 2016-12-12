@@ -188,6 +188,7 @@ High-Interaction Honeypots
     - [VNC-Pot](https://github.com/SepehrHml/VNC-Pot) - A low interaction VNC honeypot
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment
+    - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
 
 - VM cloaking script
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder
