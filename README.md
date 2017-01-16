@@ -23,6 +23,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 ## <a name="honeypots"></a> Honeypots
 
 - Database Honeypots
+    - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot
     - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
