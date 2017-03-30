@@ -372,9 +372,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Botnet C2 monitoring
     - [botsnoopd](http://botsnoopd.mwcollect.org)
 
-- low interaction
-    - [mysqlpot](https://github.com/schmalle/mysqlpot)
-
 - Malware collection
     - [Honeybow](http://honeybow.mwcollect.org/)
     
