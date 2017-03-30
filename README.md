@@ -85,8 +85,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
 
-- Botnet C2 monitor
+- Botnet C2 tools
     - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor.
+    - [dnsMole](https://code.google.com/p/dns-mole/) -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts.
+    - [botsnoopd](http://botsnoopd.mwcollect.org) - Botnet C2 monitoring
 
 - IPv6 attack detection tool
     - [ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector/)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization.
@@ -119,9 +121,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Log anonymizer
     - [LogAnon](http://code.google.com/p/loganon/) - log anonymization library that helps having anonymous logs consistent between logs and network captures.
-
-- Botnet traffic detection
-    - [dnsMole](https://code.google.com/p/dns-mole/) -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts.
 
 - Low interaction honeypot (router back door)
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764).
@@ -368,9 +367,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - SIP Server
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
-
-- Botnet C2 monitoring
-    - [botsnoopd](http://botsnoopd.mwcollect.org)
 
 - Malware collection
     - [Honeybow](http://honeybow.mwcollect.org/)
