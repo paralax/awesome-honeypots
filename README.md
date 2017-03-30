@@ -95,9 +95,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Dynamic code instrumentation toolkit
     - [Frida](http://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.
 
-- Front-end for dionaea
-    - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot.
-
 - Tool to convert website to server honeypots
     - [HIHAT](http://hihat.sourceforge.net/) - ransform arbitrary PHP applications into web-based high-interaction Honeypots.
 
@@ -348,9 +345,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Network analysis
     - [Quechua](https://bitbucket.org/zaccone/quechua)
 
-- Sebek data visualization
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4)
-
 - SIP Server
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
@@ -412,6 +406,7 @@ the honeyd daemon and generate configuration files
     - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 
     - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot. 
     - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms.
+    - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot.
 
 - Visualization
     - [Kippo-Graph](http://bruteforce.gr/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot.
@@ -425,6 +420,7 @@ the honeyd daemon and generate configuration files
     - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Acapulco](https://github.com/hgascon/Acapulco4HNP) - Automated Attack Community Graph Construction.
+    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4)
     
 
 ## <a name="guides"></a>Guides
