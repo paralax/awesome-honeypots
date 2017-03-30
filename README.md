@@ -101,9 +101,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Malware collector
     - [Kippo-Malware](http://bruteforce.gr/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.
 
-- Sebek in QEMU
-    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot.
-
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
     - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
@@ -257,9 +254,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Hybrid low/high interaction honeypot
     - [HoneyBrid](http://honeybrid.sourceforge.net)
 
-- Sebek on Xen
-    - [xebek](https://code.google.com/p/xebek/)
-
 - SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
@@ -295,8 +289,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - File carving
     - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
 
-- Data capture
-    - [Sebek](https://projects.honeynet.org/sebek/)
+- Sebek
+    - [Sebek](https://projects.honeynet.org/sebek/) - data capture
+    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot.
+    - [xebek](https://code.google.com/p/xebek/) - Sebek on Xen
 
 - SSH proxy
     - [HonSSH](https://github.com/tnich/honssh)
@@ -420,7 +416,7 @@ the honeyd daemon and generate configuration files
     - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Acapulco](https://github.com/hgascon/Acapulco4HNP) - Automated Attack Community Graph Construction.
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4)
+    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization
     
 
 ## <a name="guides"></a>Guides
