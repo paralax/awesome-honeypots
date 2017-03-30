@@ -81,7 +81,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
-    - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
 
@@ -107,9 +106,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Sebek in QEMU
     - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot.
-
-- Malware Simulator
-    - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
@@ -204,9 +200,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - data-sharing platform.
     - [HPFeeds](https://github.com/rep/hpfeeds/) - lightweight authenticated publish-subscribe protocol.
 
-- Python bindings for libemu
-    - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
-
 - central management tool
     - [PHARM](http://www.nepenthespharm.com/) - Manage , Report, Analyze your distributed Nepenthes instances.
 
@@ -216,10 +209,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeypot deployment
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - makes deploying and managing secure honeypots extremely simple.
     - [SurfIDS](http://ids.surfnet.nl/) - an open source Distributed Intrusion Detection System based on passive sensors.
-
-- Automated malware analysis system
-    - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
-    - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 
 - Low interaction
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap
@@ -308,9 +297,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - File carving
     - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
-
-- File and Network Threat Intelligence
-    - [VirusTotal](https://www.virustotal.com/)
 
 - Data capture
     - [Sebek](https://projects.honeynet.org/sebek/)
@@ -405,11 +391,17 @@ the honeyd daemon and generate configuration files
     - [dorothy2](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
+    - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
+    - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
+    - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
+    - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
 
 - Sandbox-as-a-Service
     - [malwr.com](https://malwr.com/) - free malware analysis service and community.
     - [detux.org](http://detux.org) - Multiplatform Linux Sandbox.
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
+    - [VirusTotal](https://www.virustotal.com/)
+    - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 
 ## <a name="visualizers"></a> Data Tools
 
