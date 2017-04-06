@@ -350,7 +350,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - IOT Honeypot
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
-- Active Directory
+- Honeytokens
+    - [Honeybits](https://github.com/0x4D31/honeybits) - A tool that can be used to create and place breadcrumbs and honeytokens to lead the attackers to honeypots (in production environment)
+    - [CanaryTokens](https://github.com/thinkst/canarytokens)
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
 
 ## <a name="honeyd"></a> Honeyd Tools
