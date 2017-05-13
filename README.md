@@ -216,7 +216,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Zapping Rachel](https://seanmckaybeck.com/zapping-rachel.html)
 
 - Client
-    - [Pwnypot](https://github.com/shjalayeri/pwnypot)
+    - [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
     - [Wepawet](http://wepawet.cs.ucsb.edu/about.php)
@@ -230,7 +230,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
     - [CWSandbox / GFI Sandbox](http://www.gfi.com/products-and-solutions/all-products)
     - [Capture-HPC-Linux](https://redmine.honeynet.org/projects/linux-capture-hpc/wiki)
-    - [Capture-HPC](https://projects.honeynet.org/capture-hpc)
+    - [Capture-HPC](https://projects.honeynet.org/capture-hpc) - a high interaction client honeypot (also called honeyclient).
+    - [YALIH (Yet Another Low Interaction Honeyclient)](https://github.com/Masood-M/yalih) - a low Interaction Client honeypot designed to detect malicious websites through signature, anomaly and pattern matching techniques
 
 - Binary Management and Analysis Framework
     - [Viper](http://viper.li/)
