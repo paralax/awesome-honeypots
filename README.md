@@ -98,7 +98,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Frida](http://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.
 
 - Tool to convert website to server honeypots
-    - [HIHAT](http://hihat.sourceforge.net/) - ransform arbitrary PHP applications into web-based high-interaction Honeypots.
+    - [HIHAT](http://hihat.sourceforge.net/) - Transform arbitrary PHP applications into web-based high-interaction Honeypots.
 
 - Malware collector
     - [Kippo-Malware](http://bruteforce.gr/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.
