@@ -182,6 +182,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
+    - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services. 
+    - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
+    - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - Automated signature creation using honeypots.
@@ -205,9 +208,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeypot deployment
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - makes deploying and managing secure honeypots extremely simple.
     - [SurfIDS](http://ids.surfnet.nl/) - an open source Distributed Intrusion Detection System based on passive sensors.
-
-- Low interaction
-    - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap
 
 - Honeypot extensions to Wireshark
     - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - support applying Snort IDS rules and signatures against pcap files.
