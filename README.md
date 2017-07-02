@@ -167,7 +167,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeyd](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd).
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
     - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot.
-    - [Bifrozt](https://github.com/Bifrozt/bifrozt-ansible) - High interaction honeypot solution for Linux based systems.
+    - [Bifrozt](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
     - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy.
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system.
     - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
@@ -178,7 +178,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Hontel](https://github.com/stamparm/hontel) - Telnet Honeypot.
     - [MTPot](https://github.com/CymmetriaResearch/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware.
     - [Heralding](https://github.com/johnnykv/heralding) - A credentials catching honeypot.
-    - [VNC-Pot](https://github.com/SepehrHml/VNC-Pot) - A low interaction VNC honeypot.
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
@@ -211,9 +210,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot extensions to Wireshark
     - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - support applying Snort IDS rules and signatures against pcap files.
-
-- Telephony honeypot
-    - [Zapping Rachel](https://seanmckaybeck.com/zapping-rachel.html)
 
 - Client
     - [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
@@ -416,7 +412,7 @@ the honeyd daemon and generate configuration files
     - [HoneyStats](http://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet. 
     - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map. 
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
-    - [Glastopf Analytics](https://github.com/vavkamil/Glastopf-Analytics)
+    - [Glastopf Analytics](https://github.com/katkad/Glastopf-Analytics) - easy honeypot statistics
     - [Afterglow Cloud](https://github.com/ayrus/afterglow-cloud)
     - [Afterglow](http://afterglow.sourceforge.net/)
     - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
