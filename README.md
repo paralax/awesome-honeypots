@@ -247,9 +247,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - HoneyClient Management
     - [HoneyWeb](https://code.google.com/p/gsoc-honeyweb/)
 
-- Network Analysis
-    - [HoneyProxy](http://honeyproxy.org/)
-
 - Hybrid low/high interaction honeypot
     - [HoneyBrid](http://honeybrid.sourceforge.net)
 
