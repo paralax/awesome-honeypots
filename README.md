@@ -66,6 +66,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python.
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
+    - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - A modern high-interaction honeypot framework.
 
 - Distributed Honeypots
     - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.
