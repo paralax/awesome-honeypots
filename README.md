@@ -349,7 +349,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
 - Honeytokens
-    - [Honeybits](https://github.com/0x4D31/honeybits) - A tool that can be used to create and place breadcrumbs and honeytokens to lead the attackers to honeypots (in production environment)
+    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
+    - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
     - [CanaryTokens](https://github.com/thinkst/canarytokens)
     - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
 
@@ -389,6 +390,7 @@ the honeyd daemon and generate configuration files
 - Sandbox-as-a-Service
     - [malwr.com](https://malwr.com/) - free malware analysis service and community.
     - [detux.org](http://detux.org) - Multiplatform Linux Sandbox.
+    - [linux.huntingmalware.com](https://linux.huntingmalware.com) - Multiplatform Linux Sandbox based on Cuckoo v2.
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
     - [VirusTotal](https://www.virustotal.com/)
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
