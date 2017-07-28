@@ -294,9 +294,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - SSH proxy
     - [HonSSH](https://github.com/tnich/honssh)
 
-- Anti-Cheat
-    - [Minecraft honeypot](https://mods.curse.com/bukkit-plugins/minecraft/honeypot)
-
 - behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
 
@@ -305,7 +302,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Spamtrap
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
-    - [Spampot.py](https://woozle.org/neale/src/python/spampot.py)
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
