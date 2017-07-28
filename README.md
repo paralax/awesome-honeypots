@@ -112,7 +112,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - replay network packets.
 
 - Log anonymizer
-    - [LogAnon](http://code.google.com/p/loganon/) - log anonymization library that helps having anonymous logs consistent between logs and network captures.
+    - [LogAnon](http://code.google.com/archive/p/loganon/) - log anonymization library that helps having anonymous logs consistent between logs and network captures.
 
 - Low interaction honeypot (router back door)
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764).
@@ -206,7 +206,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot deployment
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - makes deploying and managing secure honeypots extremely simple.
-    - [SurfIDS](http://ids.surfnet.nl/wiki/) - an open source Distributed Intrusion Detection System based on passive sensors.
+    - [SurfIDS](http://ids.surfnet.nl/wiki/doku.php) - an open source Distributed Intrusion Detection System based on passive sensors.
 
 - Honeypot extensions to Wireshark
     - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - support applying Snort IDS rules and signatures against pcap files.
@@ -295,7 +295,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HonSSH](https://github.com/tnich/honssh)
 
 - Anti-Cheat
-    - [Minecraft honeypot](http://mods.curse.com/bukkit-plugins/minecraft/honeypot)
+    - [Minecraft honeypot](https://mods.curse.com/bukkit-plugins/minecraft/honeypot)
 
 - behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
@@ -305,7 +305,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Spamtrap
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
-    - [Spampot.py](https://woozle.org/%7Eneale/src/python/spampot.py)
+    - [Spampot.py](https://woozle.org/neale/src/python/spampot.py)
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
@@ -313,7 +313,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
     - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
     - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
-        - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running)
+        - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Distributed spam tracking
     - [Project Honeypot](https://www.projecthoneypot.org)
