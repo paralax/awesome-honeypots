@@ -86,6 +86,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
+    - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers.
 
 - Botnet C2 tools
     - [Hale](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor.
