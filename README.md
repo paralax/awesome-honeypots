@@ -415,8 +415,8 @@ the honeyd daemon and generate configuration files
     - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Acapulco](https://github.com/hgascon/acapulco) - Automated Attack Community Graph Construction.
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization
-    
+    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
+    - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
 
 ## <a name="guides"></a>Guides
 
