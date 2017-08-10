@@ -328,10 +328,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Droidbox](https://code.google.com/archive/p/droidbox/)
 
 - Dockerized Low Interaction packaging
-    - [Manuka](https://github.com/andrewmichaelsmith/manuka)
-    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/)
-    - [Dockerpot](https://github.com/mrschyte/dockerpot) A docker based honeypot.
-    - [Docker honeynet](https://github.com/sreinhardt/Docker-Honeynet) Several Honeynet tools set up for Docker containers
+    - [Manuka](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea & Kippo).
+    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - A dockerized [Thug](https://github.com/buffer/thug) to analyze malicious web content.
+    - [Dockerpot](https://github.com/mrschyte/dockerpot) - A docker based honeypot.
+    - [Docker honeynet](https://github.com/sreinhardt/Docker-Honeynet) - Several Honeynet tools set up for Docker containers.
+    - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
 
 - Network analysis
     - [Quechua](https://bitbucket.org/zaccone/quechua)
