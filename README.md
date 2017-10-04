@@ -36,7 +36,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
       - [Snare](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
       - [Tanner](https://github.com/mushorg/tanner) - Evaluating SNARE events
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
-    - [servlet](https://github.com/schmalle/Servletpot) - Web application Honeypot.
     - [Nodepot](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
