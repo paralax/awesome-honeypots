@@ -4,4 +4,4 @@ rvm:
 before_script:
     - gem install awesome_bot
 script:
-    - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,http://hpfriends.honeycloud.net/#/home
+    - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,http://hpfriends.honeycloud.net/#/home,https://malwr.com/
