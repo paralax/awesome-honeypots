@@ -29,6 +29,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [ESPot](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     - [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+    - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
 
 - Web honeypots
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
@@ -182,6 +183,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services. 
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
+    - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
+    - [glutton](https://github.com/mushorg/glutton) - All eating honeypot.
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - Automated signature creation using honeypots.
@@ -262,6 +265,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
+    - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
+    - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -345,8 +350,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeytokens
     - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
     - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
-    - [CanaryTokens](https://github.com/thinkst/canarytokens)
-    - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
+    - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
+    - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens.
 
 ## <a name="honeyd"></a> Honeyd Tools
 
