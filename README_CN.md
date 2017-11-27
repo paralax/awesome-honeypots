@@ -1,8 +1,8 @@
-# Awesome Honeypots  
+# 最优秀的蜜罐列表
 
 [![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-杰出的蜜罐、组件等等相关的工具列表，分为 Web、服务等多个类别，重点放在开源项目上
+优秀的蜜罐、组件等等相关的工具列表，分为 Web、服务等多个类别，重点放在开源项目上
 
 每个类别中没有顺序，按照提交的先后顺序排列，如果您也想提交，请阅读 [指南](CONTRIBUTING.md).
 
@@ -417,7 +417,7 @@
     - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek 数据可视化
     - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - 试图创建蜜罐中可操作信息的智能蜜网项目
 
-## <a name="guides"></a> Guides
+## <a name="guides"></a> 指南
 
 - [T-Pot: 多蜜罐平台](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
 - [蜜罐 (Dionaea and kippo) 设置脚本](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
