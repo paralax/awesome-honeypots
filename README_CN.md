@@ -29,9 +29,10 @@
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - NoSQL 蜜罐框架
     - [ESPot](https://github.com/mycert/ESPot) - 一个用 NodeJS 编写的 Elasticsearch 蜜罐，用于对 CVE-2014-3120 的利用
     - [Delilah](https://github.com/Novetta/delilah) - Python 编写的 Elasticsearch 蜜罐
+    - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - C 编写的低交互 MySQL 蜜罐
 
 - Web 蜜罐
-    - [Glastopf](https://github.com/mushorg/glastopf) - Web 应用米蜜罐
+    - [Glastopf](https://github.com/mushorg/glastopf) - Web 应用蜜罐
     - Snare/Tanner - Glastopf 的后继者
       - [Snare](https://github.com/mushorg/snare) - 下一代高交互 honEypot
       - [Tanner](https://github.com/mushorg/tanner) - 评估 SNARE 事件
@@ -184,6 +185,8 @@
     - [honeytrap](https://github.com/tillmannw/honeytrap) - 一个用于捕获针对 TCP 和 UDP 服务攻击的低交互蜜罐
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - 联合 nepenthes 和 honeytrap 的最佳功能实现的多功能恶意软件收集蜜罐
     - [portlurker](https://github.com/bartnv/portlurker) - 用于协议猜测和安全字符显示的端口监听工具/蜜罐
+    - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - 低交互蜜罐
+    - [glutton](https://github.com/mushorg/glutton) - 可喂食蜜罐
 
 - IDS 签名生成
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - 使用蜜罐自动创建签名
@@ -264,6 +267,8 @@
     - [hornet](https://github.com/czardoz/hornet) - 支持多虚拟主机的中交互 SSH 蜜罐
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - 伪造 SSHD，记录 IP 地址、用户名与密码
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - 基于 Kippo 的蜜罐
+    - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - C 编写的低交互 SSH 蜜罐
+    - [sshesame](https://github.com/jaksi/sshesame) - 记录登录活动的虚假 SSH 服务器
 
 - 分布式传感器项目
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -283,7 +288,7 @@
 
 - 蜜罐传感器
     - [Dragon Research Group Distro](https://www.dragonresearchgroup.org/drg-distro.html)
-    - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Raspberry Pi 上一款基于定制 Raspbian 操作系统的蜜罐
+    - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki) - Raspberry Pi 上一款基于定制 Raspbian 操作系统的蜜罐
 
 - File carving
     - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
