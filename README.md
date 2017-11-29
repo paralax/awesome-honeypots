@@ -257,7 +257,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
-       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
@@ -285,7 +284,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyDrive](http://bruteforcelab.com/honeydrive)
 
 - Honeypot sensor
-    - [Dragon Research Group Distro](https://www.dragonresearchgroup.org/drg-distro.html)
     - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeeepi is a honeypot sensor on Raspberry Pi which based on customized Raspbian OS.
 
 - File carving
@@ -299,7 +297,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - SSH proxy
     - [HonSSH](https://github.com/tnich/honssh)
 
-- behavioral analysis tool for win32
+- Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
 
 - Live CD
