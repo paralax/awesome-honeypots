@@ -318,8 +318,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
-    - [Specter](http://www.specter.com/default50.htm)
-    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators
+    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators.
+    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
 
 
 - Server (Bluetooth)
