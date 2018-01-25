@@ -55,6 +55,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
         - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
         - [wordpot](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot.
+    - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - a Python-based web server honeypot builder.
 
 - Service Honeypots
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
