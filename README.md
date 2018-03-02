@@ -236,7 +236,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot
     - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
-    - [Honeyd For Windows](http://www.securityprofiling.com/honeyd/honeyd.shtml)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
