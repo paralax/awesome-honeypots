@@ -224,9 +224,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
     - [URLQuery](https://urlquery.net/)
     - [Trigona](https://www.honeynet.org/project/Trigona)
-    - [Thug](https://buffer.github.io/thug/)
-    - [Shelia](http://www.cs.vu.nl/~herbertb/misc/shelia/)
-    - [PhoneyC](https://github.com/honeynet/phoneyc)
+    - [Thug](https://buffer.github.io/thug/) - Python low-interaction honeyclient
+    - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/) - a client-side honeypot for attack detection
+    - [PhoneyC](https://github.com/honeynet/phoneyc) - Python honeyclient (later replaced by Thug)
     - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [HoneyC](https://projects.honeynet.org/honeyc)
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
