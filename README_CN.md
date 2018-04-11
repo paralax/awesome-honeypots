@@ -37,7 +37,6 @@
       - [Snare](https://github.com/mushorg/snare) - 下一代高交互 honEypot
       - [Tanner](https://github.com/mushorg/tanner) - 评估 SNARE 事件
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - 简单有效的 phpMyAdmin 蜜罐
-    - [servlet](https://github.com/schmalle/Servletpot) - Web 应用蜜罐
     - [Nodepot](https://github.com/schmalle/Nodepot)  - nodejs Web 应用蜜罐
     - [basic-auth-pot](https://github.com/bjeborn/basic-auth-pot) bap - HTTP 基本认证蜜罐
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - 用于 PHP、Perl 和 Python 应用程序的模块化Web应用程序防火墙/高交互式蜜罐
@@ -55,6 +54,7 @@
         - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - Docker 容器中基于 Python 的 WordPress 蜜罐
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - 减少垃圾邮件的 WordPress 插件
         - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress 蜜罐
+    - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - 基于 Python 的 Web 服务器蜜罐构建工具
 
 - 服务蜜罐
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP 蜜罐
@@ -68,6 +68,10 @@
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - Bash 和 Python 写成的简单 honeyport
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - 针对 Intel 的 AMT 固件漏洞（CVE-2017-5689）的蜜罐
     - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - 现代高交互蜜罐框架
+    - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - 基于 Twisted 的多用途、模块化蜜罐
+    - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 在带有 Oracle WebLogic Server 的 Oracle Fusion Middleware 中检测 CVE-2017-10271 的低交互蜜罐
+    - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) - 在带有 Oracle Hospitality Simphony 的 Oracle Hospitality Applications (MICROS) 中检测 CVE-2018-2636 的低交互蜜罐
+    - [honeytrap](https://github.com/honeytrap/honeytrap) - 用 Go 编写的高级蜜罐框架，可以连接其他蜜罐
 
 - 分布式蜜罐
     - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - 低交互蜜罐服务器
@@ -141,7 +145,6 @@
     - [pnaf](https://github.com/jusafing/pnaf) - 被动网络审计框架
 
 - 虚拟机监控工具
-    - [VIX virtual machine introspection toolkit](http://assert.uaf.edu/research/vmi.html) - 用于 Xen 的虚拟机监视工具集
     - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - 基于虚拟机的监视
     - [vmitools](http://libvmi.com/) - 带有 Python 接口的 C 库，可以轻松监视运行中的虚拟机的底层细节
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - 用于创建 VirtualBox 虚拟机模版的脚本，使检测虚拟机更困难
@@ -169,7 +172,6 @@
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - 简单 UDP / DNS 蜜罐脚本
     - [Conpot](http://conpot.org/) - 低交互的工业控制系统蜜罐
     - [Bifrozt](https://github.com/Ziemeck/bifrozt-ansible) - 自动部署带有 ansible 的 bifrozt
-    - [Beeswarm](http://www.beeswarm-ids.org/) - 方便部署的蜜罐
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - 将恶意流量重定向到生产系统镜像的蜜罐
     - [Artillery](https://github.com/trustedsec/artillery/) - 开源蓝队工具，旨在通过多种办法保护 Linux 和 Windows 操作系统
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - 简单的低交互端口监听蜜罐
@@ -233,14 +235,11 @@
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc) - 高交互客户端蜜罐
     - [YALIH (Yet Another Low Interaction Honeyclient)](https://github.com/Masood-M/yalih) - 低交互客户端蜜罐，旨在通过签名，异常和模式匹配技术检测恶意网站
 
-- 二进制管理与分析框架
-    - [Viper](http://viper.li/)
-
 - 蜜罐
     - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
-    - [Honeyd For Windows](http://www.securityprofiling.com/honeyd/honeyd.shtml)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
+    - [peepdf](https://github.com/jesparza/peepdf)
 
 - PDF 文档检查工具
     - [peepdf](https://github.com/jesparza/peepdf)
@@ -259,7 +258,6 @@
     - [Kojoney2](https://github.com/madirish/kojoney2) - 根据 Kojoney 用 Python 编写的低交互 SSH 蜜罐
     - [Kippo](https://github.com/desaster/kippo) - 中交互 SSH 蜜罐
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - 分析 SSH 蜜罐日志
-       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - 实时更新登录 SSH 蜜罐数据的文字云
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH 蜜罐 (基于 kippo)
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Go 编写的低交互 SSH 蜜罐
     - [sshhipot](https://github.com/magisterquis/sshhipot) - 高交互中间人 SSH 蜜罐
@@ -269,6 +267,7 @@
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - 基于 Kippo 的蜜罐
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - C 编写的低交互 SSH 蜜罐
     - [sshesame](https://github.com/jaksi/sshesame) - 记录登录活动的虚假 SSH 服务器
+    - [sshsyrup](https://github.com/mkishere/sshsyrup) - 简单的 SSH 蜜罐，捕获终端活动并上传到 asciinema.org
 
 - 分布式传感器项目
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -287,7 +286,6 @@
     - [HoneyDrive](http://bruteforcelab.com/honeydrive)
 
 - 蜜罐传感器
-    - [Dragon Research Group Distro](https://www.dragonresearchgroup.org/drg-distro.html)
     - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki) - Raspberry Pi 上一款基于定制 Raspbian 操作系统的蜜罐
 
 - File carving
