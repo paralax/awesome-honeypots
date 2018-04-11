@@ -55,6 +55,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
         - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
         - [wordpot](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot.
+    - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - a Python-based web server honeypot builder.
 
 - Service Honeypots
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
@@ -68,6 +69,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python.
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
     - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - A modern high-interaction honeypot framework.
+    - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - A multi-purpose modular honeypot based on Twisted.
+    - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware.
+    - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) -  low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).
+    - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go. Can be connected up with other Honeypot software.
 
 - Distributed Honeypots
     - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.
@@ -126,7 +131,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [mitmproxy](https://mitmproxy.org/) - allows traffic flows to be intercepted, inspected, modified and replayed.
 
 - System instrumentation
-    - [Sysdig](https://www.sysdig.org) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
+    - [Sysdig](https://sysdig.com/opensource/) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
     - [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel.
 
 - Honeypot for USB-spreading malware
@@ -168,7 +173,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
     - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot.
     - [Bifrozt](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
-    - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy.
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system.
     - [Artillery](https://github.com/trustedsec/artillery/) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
@@ -181,7 +185,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
-    - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services. 
+    - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
@@ -231,12 +235,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc) - a high interaction client honeypot (also called honeyclient).
     - [YALIH (Yet Another Low Interaction Honeyclient)](https://github.com/Masood-M/yalih) - a low Interaction Client honeypot designed to detect malicious websites through signature, anomaly and pattern matching techniques
 
-- Binary Management and Analysis Framework
-    - [Viper](http://viper.li/)
-
 - Honeypot
     - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
-    - [Honeyd For Windows](http://www.securityprofiling.com/honeyd/honeyd.shtml)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
