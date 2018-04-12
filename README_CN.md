@@ -130,7 +130,7 @@
     - [mitmproxy](https://mitmproxy.org/) - 拦截、检查、修改、重放流量
 
 - 系统插桩
-    - [Sysdig](https://www.sysdig.org) - 捕获 Linux 系统的状态与活动，可以进行保存、过滤与分析的开源系统级探索工具
+    - [Sysdig](https://sysdig.com/opensource/) - 捕获 Linux 系统的状态与活动，可以进行保存、过滤与分析的开源系统级探索工具
     - [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪 Windows 内核的工具
 
 - 检测 USB 恶意传播的蜜罐
@@ -145,7 +145,7 @@
     - [pnaf](https://github.com/jusafing/pnaf) - 被动网络审计框架
 
 - 虚拟机监控工具
-    - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - 基于虚拟机的监视
+    - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - 基于虚拟机的监视
     - [vmitools](http://libvmi.com/) - 带有 Python 接口的 C 库，可以轻松监视运行中的虚拟机的底层细节
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - 用于创建 VirtualBox 虚拟机模版的脚本，使检测虚拟机更困难
     - [VMCloak](https://github.com/jbremer/vmcloak) - Cuckoo 沙盒的自动虚拟机生成和隐藏
@@ -212,7 +212,6 @@
 
 - 蜜罐部署
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - 让蜜罐的管理与部署更简单
-    - [SurfIDS](http://ids.surfnet.nl/wiki/doku.php) - 基于被动传感器的开源分布式入侵检测系统
 
 - Wireshark 的蜜罐扩展
     - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - 支持应用针对 PCAP 文件的 Snort IDS 规则与签名
@@ -225,7 +224,7 @@
     - [URLQuery](https://urlquery.net/)
     - [Trigona](https://www.honeynet.org/project/Trigona)
     - [Thug](https://buffer.github.io/thug/)
-    - [Shelia](http://www.cs.vu.nl/~herbertb/misc/shelia/)
+    - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/)
     - [PhoneyC](https://github.com/honeynet/phoneyc)
     - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [HoneyC](https://projects.honeynet.org/honeyc)
@@ -289,7 +288,7 @@
     - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki) - Raspberry Pi 上一款基于定制 Raspbian 操作系统的蜜罐
 
 - File carving
-    - [TestDisk & PhotoRec](http://www.cgsecurity.org/)
+    - [TestDisk & PhotoRec](https://www.cgsecurity.org/)
 
 - Sebek
     - [Sebek](https://projects.honeynet.org/sebek/) - 数据捕获
