@@ -90,7 +90,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
-    - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
+    - [Open Canary](https://pypi.org/pypi/opencanary ) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers.
@@ -242,7 +242,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
 - PDF document inspector
-    - [peepdf](https://github.com/jesparza/peepdf)
+    - [peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
@@ -320,7 +320,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
-    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators.
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
 
 
