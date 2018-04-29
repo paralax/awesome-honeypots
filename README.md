@@ -90,7 +90,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Other/random
     - [NOVA](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
-    - [Open Canary](https://pypi.org/pypi/opencanary/) - A low interaction honeypot intended to be run on internal networks.
+    - [Open Canary](https://pypi.org/project/opencanary/) - A low interaction honeypot intended to be run on internal networks.
     - [OFPot](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
     - [DSHP](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers.
