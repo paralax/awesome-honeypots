@@ -90,7 +90,7 @@
     - [NOVA](https://github.com/DataSoft/Nova) 看起来像完整系统的蜜罐
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - 内网部署的低交互蜜罐
     - [OFPot](https://github.com/upa/ofpot) - 基于 POX 的 OpenFlow 蜜罐，将未使用的IP地址的流量重定向到蜜罐中
-    - [OpenCanary](https://github.com/thinkst/opencanary) - 模块化、分布式蜜罐
+    - [OpenCanary](https://pypi.org/project/opencanary/) - 模块化、分布式蜜罐
     - [DSHP](https://github.com/naorlivne/dshp) - 带有插件化支持的简单蜜罐
 
 - 僵尸网络 C&C 工具
@@ -238,7 +238,6 @@
     - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
-    - [peepdf](https://github.com/jesparza/peepdf)
 
 - PDF 文档检查工具
     - [peepdf](https://github.com/jesparza/peepdf)
@@ -319,7 +318,6 @@
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - 商业蜜网
-    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - 分布式蜜罐，包括 IT 和 SCADA 仿真器
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner 可引导攻击者远离真实目标，并创建攻击痕迹跟踪
 
 - 服务器（蓝牙）
