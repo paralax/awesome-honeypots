@@ -88,7 +88,7 @@
 
 - 其他/随机
     - [NOVA](https://github.com/DataSoft/Nova) 看起来像完整系统的蜜罐
-    - [Open Canary](https://pypi.org/pypi/opencanary/) - 内网部署的低交互蜜罐
+    - [Open Canary](https://pypi.org/project/opencanary/) - 内网部署的低交互蜜罐
     - [OFPot](https://github.com/upa/ofpot) - 基于 POX 的 OpenFlow 蜜罐，将未使用的IP地址的流量重定向到蜜罐中
     - [OpenCanary](https://pypi.org/project/opencanary/) - 模块化、分布式蜜罐
     - [DSHP](https://github.com/naorlivne/dshp) - 带有插件化支持的简单蜜罐
