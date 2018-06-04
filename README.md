@@ -268,6 +268,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
     - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org
+    - [HUDINX](https://github.com/Cryptix720/HUDINX) - tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
