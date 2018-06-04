@@ -88,7 +88,7 @@
 
 - 其他/随机
     - [NOVA](https://github.com/DataSoft/Nova) 看起来像完整系统的蜜罐
-    - [Open Canary](https://pypi.python.org/pypi/opencanary) - 内网部署的低交互蜜罐
+    - [Open Canary](https://pypi.org/pypi/opencanary) - 内网部署的低交互蜜罐
     - [OFPot](https://github.com/upa/ofpot) - 基于 POX 的 OpenFlow 蜜罐，将未使用的IP地址的流量重定向到蜜罐中
     - [OpenCanary](https://pypi.org/project/opencanary/) - 模块化、分布式蜜罐
     - [DSHP](https://github.com/naorlivne/dshp) - 带有插件化支持的简单蜜罐
@@ -269,7 +269,6 @@
 
 - 分布式传感器项目
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
-    - [Distributed Web Honeypot Project](http://projects.webappsec.org/w/page/29606603/Distributed%20Web%20Honeypots)
 
 - PCAP 分析工具
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
@@ -301,7 +300,7 @@
     - [Capture BAT](https://www.honeynet.org/node/315)
 
 - Live CD
-    - [DAVIX](http://www.secviz.org/node/89)
+    - [DAVIX](https://www.secviz.org/node/89) - DAVIX Released 
 
 - Spamtrap
     - [Mailoney](https://github.com/awhitehatter/mailoney) - Python 编写的 SMTP 蜜罐，具有开放中继、凭据记录等功能
@@ -310,12 +309,9 @@
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - 提供标准 SMTP 服务器工具的 Perl 模块
     - [honeypot](https://github.com/jadb/honeypot) - 蜜罐项目组非官方 PHP 的 SDK
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - 垃圾邮件蜜罐工具
-    - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) - 获得所有 IDS 和分析设备的简单 SMTP
+    - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) - 获得所有 IDS 和分析设备的简单 SMTP
     - [Shiva](https://github.com/shiva-spampot/shiva) - 垃圾邮件蜜罐与智能分析工具
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
-
-- 分布式垃圾邮件跟踪
-    - [Project Honeypot](https://www.projecthoneypot.org)
 
 - 商业蜜网
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner 可引导攻击者远离真实目标，并创建攻击痕迹跟踪
@@ -386,7 +382,6 @@
 - 沙盒即服务
     - [malwr.com](https://malwr.com/) - 提供免费恶意软件分析服务与社区
     - [detux.org](https://detux.org) - 多平台 Linux 沙盒
-    - [linux.huntingmalware.com](https://linux.huntingmalware.com) - 基于 Cuckoo v2 的多平台 Linux 沙盒
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - 确定 Windows、Android 和 Mac OS X 上的恶意文件（包括PE、PDF、DOC、PPT、XLS、APK、URL 和 MachO）的行为，判断其是否存在可疑活动
     - [VirusTotal](https://www.virustotal.com/)
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - 由 Payload Security 提供的免费恶意软件分析服务，可使用其独特的混合分析技术检测和分析未知威胁
