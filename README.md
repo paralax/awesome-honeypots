@@ -273,7 +273,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
-    - [Distributed Web Honeypot Project](http://projects.webappsec.org/w/page/29606603/Distributed%20Web%20Honeypots)
 
 - A pcap analyzer
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
@@ -305,7 +304,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Capture BAT](https://www.honeynet.org/node/315)
 
 - Live CD
-    - [DAVIX](http://www.secviz.org/node/89)
+    - [DAVIX](https://www.secviz.org/node/89) - The DAVIX Live CD
 
 - Spamtrap
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
@@ -314,12 +313,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
     - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
-    - [SendMeSpamIDS.py](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
+    - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) Simple SMTP fetch all IDS and analyzer
     - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
-
-- Distributed spam tracking
-    - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
@@ -392,7 +388,6 @@ the honeyd daemon and generate configuration files
 - Sandbox-as-a-Service
     - [malwr.com](https://malwr.com/) - free malware analysis service and community.
     - [detux.org](https://detux.org) - Multiplatform Linux Sandbox.
-    - [linux.huntingmalware.com](https://linux.huntingmalware.com) - Multiplatform Linux Sandbox based on Cuckoo v2.
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
     - [VirusTotal](https://www.virustotal.com/)
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
