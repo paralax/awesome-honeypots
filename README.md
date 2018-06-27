@@ -110,7 +110,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HIHAT](http://hihat.sourceforge.net/) - Transform arbitrary PHP applications into web-based high-interaction Honeypots.
 
 - Malware collector
-    - [Kippo-Malware](http://bruteforcelab.com/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.
+    - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.
 
 - Distributed sensor deployment
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
@@ -127,7 +127,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764).
 
 - honeynet farm traffic redirector
-    - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole) - eploy multiple sensors that redirect traffic to a centralized collection of honeypots.
+    - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - eploy multiple sensors that redirect traffic to a centralized collection of honeypots.
 
 - HTTPS Proxy
     - [mitmproxy](https://mitmproxy.org/) - allows traffic flows to be intercepted, inspected, modified and replayed.
@@ -141,8 +141,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/)  - low interaction honeypot on USB stick
 
 - Data Collection
-    - [Kippo2MySQL](http://bruteforcelab.com/kippo2mysql) -  extracts some very basic stats from Kippo’s text-based log files (a mess to analyze!) and inserts them in a MySQL database.
-    - [Kippo2ElasticSearch](http://bruteforcelab.com/kippo2elasticsearch) - Python script to transfer data from a Kippo SSH honeypot MySQL database to an ElasticSearch instance (server or cluster).
+    - [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) -  extracts some very basic stats from Kippo’s text-based log files (a mess to analyze!) and inserts them in a MySQL database.
+    - [Kippo2ElasticSearch](https://bruteforcelab.com/kippo2elasticsearch) - Python script to transfer data from a Kippo SSH honeypot MySQL database to an ElasticSearch instance (server or cluster).
 
 - Passive network audit framework parser
     - [pnaf](https://github.com/jusafing/pnaf) - Passive Network Audit Framework.
@@ -182,7 +182,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - takes over unused IP addresses, and creates virtual servers that are attractive to worms, hackers, and other denizens of the Internet.
     - [MTPot](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware.
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
-    - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot.
+    - [TelnetHoney](https://github.com/balte/TelnetHoney) - A simple telnet honeypot.
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
     - [glutton](https://github.com/mushorg/glutton) - All eating honeypot.
@@ -284,7 +284,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeywall](https://projects.honeynet.org/honeywall/)
 
 - Honeypot Distribution with mixed content
-    - [HoneyDrive](http://bruteforcelab.com/honeydrive)
+    - [HoneyDrive](https://bruteforcelab.com/honeydrive)
 
 - Honeypot sensor
     - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeeepi is a honeypot sensor on Raspberry Pi which based on customized Raspbian OS.
@@ -307,7 +307,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [DAVIX](https://www.secviz.org/node/89) - The DAVIX Live CD
 
 - Spamtrap
-    - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
+    - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) Simple SMTP fetch all IDS and analyzer
     - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
@@ -359,10 +359,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeyview](http://honeyview.sourceforge.net/)
 
 - Honeyd to MySQL connector
-    - [Honeyd2MySQL](http://bruteforcelab.com/honeyd2mysql)
+    - [Honeyd2MySQL](https://bruteforcelab.com/honeyd2mysql)
 
 - A script to visualize statistics from honeyd
-    - [Honeyd-Viz](http://bruteforcelab.com/honeyd-viz)
+    - [Honeyd-Viz](https://bruteforcelab.com/honeyd-viz)
 
 - Honeyd UI
     - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/) - application used to configure
@@ -376,14 +376,15 @@ the honeyd daemon and generate configuration files
 ## <a name="analysis"></a> Network and Artifact Analysis
 
 - Sandbox
-    - [RFISandbox](https://monke    - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
+    - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
     - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
+    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)  
     - [dorothy2](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
     - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
     - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
-y.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)
+
 
 - Sandbox-as-a-Service
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
@@ -413,7 +414,7 @@ y.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [f
     - [HoneyStats](https://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet. 
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot. 
-    - [Kippo-Graph](http://bruteforcelab.com/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot.
+    - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot.
     - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
     - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
     - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
