@@ -176,7 +176,7 @@
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - 简单的低交互端口监听蜜罐
     - [HoneyWRT](https://github.com/CanadianJeff/honeywrt) - 基于 Python 的低交互蜜罐，旨在模拟攻击者可能攻击的服务或端口
     - [Amun](http://amunhoney.sourceforge.net) - 漏洞模拟蜜罐
-    - [TelnetHoney](https://github.com/AnguisCaptor/TelnetHoney) - 简单的 telnet 蜜罐
+    - [TelnetHoney](https://github.com/balte/TelnetHoney) - 简单的 telnet 蜜罐
     - [Hontel](https://github.com/stamparm/hontel) - Telnet 蜜罐
     - [MTPot](https://github.com/Cymmetria/MTPot) - 专注于 Mirai 的开源 Telnet 蜜罐
     - [Heralding](https://github.com/johnnykv/heralding) - 捕获凭据的蜜罐
