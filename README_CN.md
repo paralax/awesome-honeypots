@@ -106,7 +106,7 @@
     - [HIHAT](http://hihat.sourceforge.net/) - 将任意 PHP 页面转换成基于 Web 的高交互蜜罐
 
 - 恶意软件收集
-    - [Kippo-Malware](http://bruteforcelab.com/kippo-malware) - 用于在 Kippo SSH 蜜罐数据库中记录的 URL 上下载恶恶意文件的 Python 脚本
+    - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) - 用于在 Kippo SSH 蜜罐数据库中记录的 URL 上下载恶恶意文件的 Python 脚本
 
 - 分布式传感器部署
     - [Smarthoneypot](https://smarthoneypot.com/) - 易于部署与管理的自定义智能蜜罐系统
@@ -123,7 +123,7 @@
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - 路由器后门蜜罐(TCP 32764).
 
 - 蜜网流量重定向工具
-    - [Honeymole](https://web.archive.org/web/20120122130150/http://www.honeynet.org.pt/index.php/HoneyMole) - 多传感器重定向流量到集中式蜜罐
+    - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - 多传感器重定向流量到集中式蜜罐
 
 - HTTPS 代理
     - [mitmproxy](https://mitmproxy.org/) - 拦截、检查、修改、重放流量
@@ -137,8 +137,8 @@
     - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/)  - U 盘上的低交互蜜罐
 
 - 数据采集
-    - [Kippo2MySQL](http://bruteforcelab.com/kippo2mysql) - 从 Kippo 的日志文件中提取一些基本的统计信息插入到数据库中
-    - [Kippo2ElasticSearch](http://bruteforcelab.com/kippo2elasticsearch) - 用于将 Kippo SSH 蜜罐数据从 MySQL 数据库传输到 ElasticSearch 实例（服务器或集群）的 Python 脚本
+    - [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) - 从 Kippo 的日志文件中提取一些基本的统计信息插入到数据库中
+    - [Kippo2ElasticSearch](https://bruteforcelab.com/kippo2elasticsearch) - 用于将 Kippo SSH 蜜罐数据从 MySQL 数据库传输到 ElasticSearch 实例（服务器或集群）的 Python 脚本
 
 - 被动网络审计框架解析工具
     - [pnaf](https://github.com/jusafing/pnaf) - 被动网络审计框架
@@ -279,7 +279,7 @@
     - [Honeywall](https://projects.honeynet.org/honeywall/)
 
 - 混合内容的分布式蜜罐
-    - [HoneyDrive](http://bruteforcelab.com/honeydrive)
+    - [HoneyDrive](https://bruteforcelab.com/honeydrive)
 
 - 蜜罐传感器
     - [Honeeepi](https://redmine.honeynet.org/projects/honeeepi/wiki) - Raspberry Pi 上一款基于定制 Raspbian 操作系统的蜜罐
@@ -305,7 +305,7 @@
     - [Mailoney](https://github.com/awhitehatter/mailoney) - Python 编写的 SMTP 蜜罐，具有开放中继、凭据记录等功能
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
-    - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - 提供标准 SMTP 服务器工具的 Perl 模块
+    - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - 提供标准 SMTP 服务器工具的 Perl 模块
     - [honeypot](https://github.com/jadb/honeypot) - 蜜罐项目组非官方 PHP 的 SDK
     - [SpamHAT](https://github.com/miguelraulb/spamhat) - 垃圾邮件蜜罐工具
     - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) - 获得所有 IDS 和分析设备的简单 SMTP
@@ -353,10 +353,10 @@
     - [Honeyview](http://honeyview.sourceforge.net/)
 
 - Honeyd 与 MySQL 的连接
-    - [Honeyd2MySQL](http://bruteforcelab.com/honeyd2mysql)
+    - [Honeyd2MySQL](https://bruteforcelab.com/honeyd2mysql)
 
 - Honeyd 统计数据可视化脚本
-    - [Honeyd-Viz](http://bruteforcelab.com/honeyd-viz)
+    - [Honeyd-Viz](https://bruteforcelab.com/honeyd-viz)
 
 - Honeyd UI
     - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/) - 用于配置honeyd守护进程并生成配置文件的程序
@@ -397,7 +397,7 @@
     - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Dionaea 蜜罐前端 Web
 
 - 可视化
-    - [Kippo-Graph](http://bruteforcelab.com/kippo-graph) - 用于可视化 Kippo 蜜罐中数据的脚本
+    - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - 用于可视化 Kippo 蜜罐中数据的脚本
     - [Kippo stats](https://github.com/mfontani/kippo-stats) - 为 kippo SSH 蜜罐展示数据的程序
     - [HoneyStats](https://sourceforge.net/projects/honeystats/) - Honeynet 的统计视图
     - [HoneyMap](https://github.com/fw42/honeymap) - 显示实时 Websocket 流的 SVG 地图
