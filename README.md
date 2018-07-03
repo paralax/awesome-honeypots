@@ -185,14 +185,21 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [SIREN](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
     - [TelnetHoney](https://github.com/balte/TelnetHoney) - A simple telnet honeypot.
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
+    - [YAFH](https://github.com/fnzv/YAFH) - Yet Another Fake Honeypot written in Go
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
     - [glutton](https://github.com/mushorg/glutton) - All eating honeypot.
+    - [go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot) - A honeypot server written in Go
+    - [go-emulators](https://github.com/kingtuna/go-emulators) - honeypot go lang emulators
+    - [honeymail](https://github.com/sec51/honeymail) - SMTP honeypot written in Golang
     - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
+    - [imap-honey](https://github.com/yvesago/imap-honey) - IMAP honeypot written in Golang
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
+    - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
+
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - Automated signature creation using honeypots.
@@ -256,21 +263,32 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyBrid](http://honeybrid.sourceforge.net)
 
 - SSH Honeypots
+    - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [HUDINX](https://github.com/Cryptix720/HUDINX) - tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
-    - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
-       - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
-    - [Kojoney](http://kojoney.sourceforge.net/)
+    - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
+    - [Kojoney](http://kojoney.sourceforge.net/)
+    - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot
+    - [go0r](https://github.com/fzerorubigd/go0r) - A simple ssh honeypot in golang
+    - [gohoney](https://github.com/PaulMaddox/gohoney) - A SSH honeypot written in Go
+    - [hived](https://github.com/sahilm/hived) - a honeypot 
+    - [hnypots-agent)](https://github.com/joshrendek/hnypots-agent) - A SSH Server in Go that logs username/password combos
+    - [honeypot.go](https://github.com/mdp/honeypot.go) - SSH Honeypot written in Go
+    - [honeyssh](https://github.com/ppacher/honeyssh) - A credential dumping SSH honeypot with statistics
     - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
+    - [ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger) - A low/zero interaction ssh authentication logging honeypot
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
+    - [sshForShits](https://github.com/traetox/sshForShits) - framework for a high interaction SSH honeypot
     - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
     - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
+    - [sshsyrup](https://github.com/mkishere/sshsyrup) - A low-to-medium interaction SSH Honeypot with features to capture terminal activity and upload to asciinema.org
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org
+
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
