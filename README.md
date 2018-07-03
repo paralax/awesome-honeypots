@@ -197,6 +197,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
+    - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
 
