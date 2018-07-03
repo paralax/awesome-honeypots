@@ -70,6 +70,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) -  High interaction SMB service Honeypot capable of capturing wannacry like Malware.
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware.
+    - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - Twisted based HoneyPot for WhiteFace whiteface.csirtgadgets.com
     - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - The plugin repository for Honeycomb, the honeypot framework by Cymmetria.
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot.
