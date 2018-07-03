@@ -286,7 +286,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
     - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
-    - [sshsyrup](https://github.com/mkishere/sshsyrup) - A low-to-medium interaction SSH Honeypot with features to capture terminal activity and upload to asciinema.org
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org
 
 
