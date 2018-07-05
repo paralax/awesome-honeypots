@@ -208,9 +208,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Lookup service for AS-numbers and prefixes
     - [CC2ASN](http://www.cc2asn.com/) - A simple lookup service for AS-numbers and prefixes belonging to any given country in the world.
 
-- Web interface (for Thug)
-    - [Rumal](https://github.com/thugs-rumal/) - Thug's Rumāl: a Thug's dress & weapon.
-
 - Data Collection / Data Sharing
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - Honeypot data-sharing platform.
       - [hpfriends - real-time social data-sharing](http://heipei.github.io/sigint-hpfriends/) - Presentation about HPFriends feed system 
@@ -236,12 +233,16 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Capture-HPC](https://projects.honeynet.org/capture-hpc) - a high interaction client honeypot (also called honeyclient).
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
     - [HoneyC](https://projects.honeynet.org/honeyc)
+    - [HoneySpider Network](https://github.com/CERT-Polska/hsn2-bundle) - a highly-scalable system integrating multiple client honeypots to detect malicious websites.
+    - [HoneyWeb](https://code.google.com/archive/p/gsoc-honeyweb/) - Web interface created to manage and share remotly Honeyclients ressources. 
     - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [PhoneyC](https://github.com/honeynet/phoneyc) - Python honeyclient (later replaced by Thug)
     - [Pwnypot](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
+    - [Rumal](https://github.com/thugs-rumal/) - Thug's Rumāl: a Thug's dress & weapon.
     - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/) - a client-side honeypot for attack detection
     - [Thug](https://buffer.github.io/thug/) - Python low-interaction honeyclient
+    - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
     - [Trigona](https://www.honeynet.org/project/Trigona)
     - [URLQuery](https://urlquery.net/)
     - [YALIH (Yet Another Low Interaction Honeyclient)](https://github.com/Masood-M/yalih) - a low Interaction Client honeypot designed to detect malicious websites through signature, anomaly and pattern matching techniques
@@ -254,12 +255,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - PDF document inspector
     - [peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents 
 
-- Distribution system
-    - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
-
-- HoneyClient Management
-    - [HoneyWeb](https://code.google.com/archive/p/gsoc-honeyweb/)
-
 - Hybrid low/high interaction honeypot
     - [HoneyBrid](http://honeybrid.sourceforge.net)
 
@@ -267,11 +262,12 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
+    - [HonSSH](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
     - [HUDINX](https://github.com/Cryptix720/HUDINX) - tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
     - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
-    - [Kojoney](http://kojoney.sourceforge.net/)
+    - [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
     - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot
     - [go0r](https://github.com/fzerorubigd/go0r) - A simple ssh honeypot in golang
     - [gohoney](https://github.com/PaulMaddox/gohoney) - A SSH honeypot written in Go
@@ -289,15 +285,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - A simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org
 
-
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
 
 - A pcap analyzer
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
-
-- Client Web crawler
-    - [HoneySpider Network](https://github.com/CERT-Polska/hsn2-bundle)
 
 - Network traffic redirector
     - [Honeywall](https://projects.honeynet.org/honeywall/)
@@ -315,9 +307,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot.
     - [Sebek](https://projects.honeynet.org/sebek/) - data capture
     - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen
-
-- SSH proxy
-    - [HonSSH](https://github.com/tnich/honssh)
 
 - Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
