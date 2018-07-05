@@ -26,10 +26,11 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
     - [ESPot](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
+    - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - A simple Mysql honeypot project.
     - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
-    - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
+    - [MysqlPot](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
 
@@ -259,7 +260,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyBrid](http://honeybrid.sourceforge.net)
 
 - SSH Honeypots
-    - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
+    - [Blacknet](https://github.com/morian/blacknet) - Multi-head SSH honeypot system.
     - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [HonSSH](https://github.com/tnich/honssh) - HonSSH is designed to log all SSH communications between a client and server.
@@ -268,6 +269,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
+    - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
     - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot
     - [go0r](https://github.com/fzerorubigd/go0r) - A simple ssh honeypot in golang
     - [gohoney](https://github.com/PaulMaddox/gohoney) - A SSH honeypot written in Go
@@ -328,7 +330,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Commercial honeynet
     - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
 
-
 - Server (Bluetooth)
     - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
 
@@ -348,7 +349,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - SIP Server
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
-    
 - IOT Honeypot
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
