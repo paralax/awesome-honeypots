@@ -30,6 +30,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     - [mysql](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
+    - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
 
 - Web honeypots
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit.
@@ -194,10 +196,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
     - [imap-honey](https://github.com/yvesago/imap-honey) - IMAP honeypot written in Golang
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
-    - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
-    - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
 
