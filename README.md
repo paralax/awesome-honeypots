@@ -269,6 +269,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
+    - [cowrie2neo](https://github.com/xlfe/cowrie2neo) - Parse cowrie honeypot logs into a neo4j database.
     - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot
     - [go0r](https://github.com/fzerorubigd/go0r) - A simple ssh honeypot in golang
     - [gohoney](https://github.com/PaulMaddox/gohoney) - A SSH honeypot written in Go
