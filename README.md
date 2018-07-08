@@ -269,6 +269,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kojoney2](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kojoney](http://kojoney.sourceforge.net/) - Kojoney is a low level interaction honeypot that emulates an SSH server. The daemon is written in Python using the Twisted Conch libraries.
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
+    - [MockSSH](https://github.com/ncouture/MockSSH) - Mock an SSH server and define all commands it supports (Python, Twisted)
     - [cowrie2neo](https://github.com/xlfe/cowrie2neo) - Parse cowrie honeypot logs into a neo4j database.
     - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot
     - [go0r](https://github.com/fzerorubigd/go0r) - A simple ssh honeypot in golang
@@ -351,6 +352,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - IOT Honeypot
     - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
+    - [Kako](https://github.com/darkarnium/kako) - honeypots for a number of well known and deployed embedded device vulnerabilities.
 
 - Honeytokens
     - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
