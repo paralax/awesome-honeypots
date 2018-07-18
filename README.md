@@ -196,6 +196,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeytrap](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services.
     - [imap-honey](https://github.com/yvesago/imap-honey) - IMAP honeypot written in Golang
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
+    - [potd](https://github.com/lnslbrty/potd) - A high scalable low to medium interactive SSH/TCP honeypot designed for OpenWrt/IoT devices using Linux Namespaces, Seccomp and Capabilities.
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
