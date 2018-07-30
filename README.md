@@ -33,6 +33,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [MysqlPot](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
+    - [Acra](https://github.com/cossacklabs/acra) - Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.
 
 - Web honeypots
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit.
