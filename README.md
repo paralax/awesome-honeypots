@@ -310,28 +310,28 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Sebek
     - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek. As Sebek, it is data capture tool for high interaction honeypot.
-    - [Sebek](https://projects.honeynet.org/sebek/) - data capture
-    - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen
+    - [Sebek](https://projects.honeynet.org/sebek/) - Data capture.
+    - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen.
 
 - Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
 
 - Live CD
-    - [DAVIX](https://www.secviz.org/node/89) - The DAVIX Live CD
+    - [DAVIX](https://www.secviz.org/node/89) - The DAVIX Live CD.
 
 - Spamtrap
-    - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
+    - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - Perl module that appears to provide the functionality of a standard SMTP server.
     - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
-    - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) Simple SMTP fetch all IDS and analyzer
-    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
+    - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) Simple SMTP fetch all IDS and analyzer.
+    - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
-    - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
+    - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool.
     - [Spamhole](http://www.spamhole.net/)
-    - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
+    - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK.
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
 
 - Commercial honeynet
-    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
+    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - Leads attackers away from real targets and creates a footprint of the attack.
 
 - Server (Bluetooth)
     - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
@@ -341,9 +341,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Dockerized Low Interaction packaging
     - [Docker honeynet](https://github.com/sreinhardt/Docker-Honeynet) - Several Honeynet tools set up for Docker containers.
-    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - A dockerized [Thug](https://github.com/buffer/thug) to analyze malicious web content.
-    - [Dockerpot](https://github.com/mrschyte/dockerpot) - A docker based honeypot.
-    - [Manuka](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea & Kippo).
+    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - Dockerized [Thug](https://github.com/buffer/thug) to analyze malicious web content.
+    - [Dockerpot](https://github.com/mrschyte/dockerpot) - Docker based honeypot.
+    - [Manuka](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea and Kippo).
     - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
 
 - Network analysis
@@ -353,14 +353,14 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
 - IOT Honeypot
-    - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot
-    - [Kako](https://github.com/darkarnium/kako) - honeypots for a number of well known and deployed embedded device vulnerabilities.
+    - [HoneyThing](https://github.com/omererdem/honeything) - TR-069 Honeypot.
+    - [Kako](https://github.com/darkarnium/kako) - Honeypots for a number of well known and deployed embedded device vulnerabilities.
 
 - Honeytokens
-    - [CanaryTokens](https://github.com/thinkst/canarytokens) - 
-    - [Honeybits](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
-    - [Honeyλ](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
-    - [dcept](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens.
+    - [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+    - [Honeybits](https://github.com/0x4D31/honeybits) - Simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs and honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
+    - [Honeyλ (HoneyLambda)](https://github.com/0x4D31/honeylambda) - Simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
+    - [dcept](https://github.com/secureworks/dcept) - Tool for deploying and detecting use of Active Directory honeytokens.
 
 ## <a name="honeyd"></a> Honeyd Tools
 
@@ -377,8 +377,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Honeyd-Viz](https://bruteforcelab.com/honeyd-viz)
 
 - Honeyd UI
-    - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/) - application used to configure
-the honeyd daemon and generate configuration files
+    - [Honeyd configuration GUI](http://www.citi.umich.edu/u/provos/honeyd/ch01-results/1/) - Application used to configure
+the honeyd daemon and generate configuration files.
 
 - Honeyd stats
     - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
@@ -388,48 +388,48 @@ the honeyd daemon and generate configuration files
 ## <a name="analysis"></a> Network and Artifact Analysis
 
 - Sandbox
-    - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
+    - [Argos](http://www.few.vu.nl/argos/) - Emulator for capturing zero-day attacks.
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
-    - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
-    - [Pylibemu](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
-    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)  
-    - [dorothy2](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
+    - [Cuckoo](https://cuckoosandbox.org/) - Leading open source automated malware analysis system.
+    - [Pylibemu](https://github.com/buffer/pylibemu) - Libemu Cython wrapper.
+    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall).
+    - [dorothy2](https://github.com/m4rco-/dorothy2) - Malware/botnet analysis framework written in Ruby.
     - [imalse](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
     - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
 
 
 - Sandbox-as-a-Service
-    - [Hybrid Analysis](https://www.hybrid-analysis.com) - a free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
-    - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
-    - [VirusTotal](https://www.virustotal.com/)
+    - [Hybrid Analysis](https://www.hybrid-analysis.com) - Free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+    - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - Analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
+    - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, and automatically share them with the security community.
     - [detux.org](https://detux.org) - Multiplatform Linux Sandbox.
-    - [malwr.com](https://malwr.com/) - free malware analysis service and community.
+    - [malwr.com](https://malwr.com/) - Free malware analysis service and community.
 
 ## <a name="visualizers"></a> Data Tools
 
 - Front Ends
     - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot.
     - [Django-kippo](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot.
-    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 
+    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - Full featured script to visualize statistics from a Shockpot honeypot. 
     - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
-    - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot.
+    - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - Full featured script to visualize statistics from a Wordpot honeypot.
     - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms.
-    - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot. 
+    - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - Flask website which displays data gathered from an SSH Honeypot. 
 
 - Visualization
     - [Acapulco](https://github.com/hgascon/acapulco) - Automated Attack Community Graph Construction.
     - [Afterglow Cloud](https://github.com/ayrus/afterglow-cloud)
     - [Afterglow](http://afterglow.sourceforge.net/)
-    - [Glastopf Analytics](https://github.com/katkad/Glastopf-Analytics) - easy honeypot statistics
+    - [Glastopf Analytics](https://github.com/katkad/Glastopf-Analytics) - Easy honeypot statistics.
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
-    - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map. 
-    - [HoneyStats](https://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet. 
-    - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
-    - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot. 
-    - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - a full featured script to visualize statistics from a Kippo SSH honeypot.
+    - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map.
+    - [HoneyStats](https://sourceforge.net/projects/honeystats/) - Statistical view of the recorded activity on a Honeynet.
+    - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - Visualization app to visualize hpfeeds logs.
+    - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot.
+    - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
     - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
-    - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
-    - [ovizart](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
+    - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
+    - [ovizart](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
 
 ## <a name="guides"></a>Guides
 
@@ -437,10 +437,10 @@ the honeyd daemon and generate configuration files
 - [Honeypot (Dionaea and kippo) setup script](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
 - Deployment
-    - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - a tutorial on setting up Dionaea on an EC2 instance
+    - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - Tutorial on setting up Dionaea on an EC2 instance.
     - [Using a Raspberry Pi honeypot to contribute data to DShield/ISC](https://isc.sans.edu/diary/22680) - The Raspberry Pi based system will allow us to maintain one code base that will make it easier to collect rich logs beyond firewall logs.
-    - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a HoneyPot Pi
+    - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a HoneyPot Pi.
 
 - Research Papers
-    - [Honeypot research papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots
-    - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - behavioral footprinting for self-propagating worm detection and profiling.
+    - [Honeypot research papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots.
+    - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.
