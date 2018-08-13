@@ -199,6 +199,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [potd](https://github.com/lnslbrty/potd) - Highly scalable low- to medium-interaction SSH/TCP honeypot designed for OpenWrt/IoT devices leveraging several Linux kernel features, such as namespaces, seccomp and thread capabilities.
     - [portlurker](https://github.com/bartnv/portlurker) - Port listener in Rust with protocol guessing and safe string display.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - Simple low-interaction port monitoring honeypot.
+    - [telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - Telnet honeypot designed to track the Mirai botnet.
     - [vnclowpot](https://github.com/magisterquis/vnclowpot) - Low interaction VNC honeypot.
 
