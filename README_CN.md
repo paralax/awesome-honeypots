@@ -109,7 +109,6 @@
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) - 用于在 Kippo SSH 蜜罐数据库中记录的 URL 上下载恶恶意文件的 Python 脚本
 
 - 分布式传感器部署
-    - [Smarthoneypot](https://smarthoneypot.com/) - 易于部署与管理的自定义智能蜜罐系统
     - [Modern Honey Network](https://github.com/threatstream/mhn) - 分布式 Snort 与蜜罐传感器管理，使用虚拟网络，最小指纹的 SNORT 安装，服务器提供隐形侦察与集中管理
     - [ADHD](https://sourceforge.net/projects/adhd/) - Active Defense Harbinger Distribution（ADHD）是基于 Ubuntu LTS 的 Linux 发行版，并配备了许多预装的主动防御工具
 

@@ -120,7 +120,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Distributed sensor deployment
     - [Active Defense Harbinger Distribution (ADHD)](https://sourceforge.net/projects/adhd/) - GNU/Linux distro based on Ubuntu LTS that comes with many tools aimed at active defense preinstalled and configured.
     - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
-    - [Smarthoneypot](https://smarthoneypot.com/) - Custom honeypot intelligence system that is simple to deploy and easy to manage.
 
 - Network Analysis Tool
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - Replay network packets.
