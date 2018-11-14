@@ -129,6 +129,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Low interaction honeypot (router back door)
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764).
+    - [WAPot](https://github.com/lcashdol/WAPot) - Honeypot that can be used to observe traffic directed at home routers.
 
 - honeynet farm traffic redirector
     - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - Deploy multiple sensors that redirect traffic to a centralized collection of honeypots.
