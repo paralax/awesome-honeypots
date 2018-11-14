@@ -146,7 +146,7 @@
     - [vmscope](https://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - 基于虚拟机的监视
     - [vmitools](http://libvmi.com/) - 带有 Python 接口的 C 库，可以轻松监视运行中的虚拟机的底层细节
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - 用于创建 VirtualBox 虚拟机模版的脚本，使检测虚拟机更困难
-    - [VMCloak](https://github.com/jbremer/vmcloak) - Cuckoo 沙盒的自动虚拟机生成和隐藏
+    - [VMCloak](https://github.com/hatching/vmcloak) - Cuckoo 沙盒的自动虚拟机生成和隐藏
 
 - 二进制调试器
     - [Hexgolems - Schem Debugger Frontend](https://github.com/hexgolems/schem) - 一个调试器前端
@@ -199,7 +199,7 @@
 
 - 数据收集/数据共享
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - 蜜罐数据共享平台
-      - [hpfriends - real-time social data-sharing](http://heipei.github.io/sigint-hpfriends/) - HPFriends 订阅系统的展示
+      - [hpfriends - real-time social data-sharing](https://heipei.io/sigint-hpfriends/) - HPFriends 订阅系统的展示
     - [HPFeeds](https://github.com/rep/hpfeeds/) - 轻量认证的订阅发布协议
 
 - 集中管理工具
@@ -254,7 +254,7 @@
     - [Kojoney2](https://github.com/madirish/kojoney2) - 根据 Kojoney 用 Python 编写的低交互 SSH 蜜罐
     - [Kippo](https://github.com/desaster/kippo) - 中交互 SSH 蜜罐
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - 分析 SSH 蜜罐日志
-    - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH 蜜罐 (基于 kippo)
+    - [Cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH 蜜罐 (基于 kippo)
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Go 编写的低交互 SSH 蜜罐
     - [sshhipot](https://github.com/magisterquis/sshhipot) - 高交互中间人 SSH 蜜罐
     - [DShield docker](https://github.com/xme/dshield-docker) - 启用了 DShield 输出的 Docker 容器
@@ -312,7 +312,7 @@
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - 商业蜜网
-    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner 可引导攻击者远离真实目标，并创建攻击痕迹跟踪
+    - [Cymmetria Mazerunner](https://cymmetria.com/products/mazerunner/) - MazeRunner 可引导攻击者远离真实目标，并创建攻击痕迹跟踪
 
 - 服务器（蓝牙）
     - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
