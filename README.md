@@ -154,7 +154,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - VM monitoring and tools
     - [Antivmdetect](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make VM detection harder.
-    - [VMCloak](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
+    - [VMCloak](https://github.com/hatching/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 
 - Binary debugger
@@ -213,7 +213,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Data Collection / Data Sharing
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - Honeypot data-sharing platform.
-        - [hpfriends - real-time social data-sharing](http://heipei.github.io/sigint-hpfriends/) - Presentation about HPFriends feed system 
+        - [hpfriends - real-time social data-sharing](https://heipei.io/sigint-hpfriends/) - Presentation about HPFriends feed system 
     - [HPFeeds](https://github.com/rep/hpfeeds/) - Lightweight authenticated publish-subscribe protocol.
 
 - Central management tool
@@ -263,7 +263,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - SSH Honeypots
     - [Blacknet](https://github.com/morian/blacknet) - Multi-head SSH honeypot system.
-    - [Cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo).
+    - [Cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH Honeypot (based on kippo).
     - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [HonSSH](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
     - [HUDINX](https://github.com/Cryptix720/HUDINX) - Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
@@ -335,7 +335,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
 
 - Commercial honeynet
-    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - Leads attackers away from real targets and creates a footprint of the attack.
+    - [Cymmetria Mazerunner](ttps://cymmetria.com/products/mazerunner/) - Leads attackers away from real targets and creates a footprint of the attack.
 
 - Server (Bluetooth)
     - [Bluepot](https://github.com/andrewmichaelsmith/bluepot)
