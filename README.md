@@ -80,6 +80,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) - FTP Honeypot.
     - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go that can be connected with other honeypot software.
+    - [pyrdp](https://github.com/gosecure/pyrdp) - RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact.
     - [troje](https://github.com/dutchcoders/troje/) - Honeypot that runs each connection with the service within a seperate LXC container.
 
 - Distributed Honeypots
