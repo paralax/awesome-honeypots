@@ -168,6 +168,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
+    - [T-Pot](https://github.com/dtag-dev-sec/tpotce) - All in one honeypot appliance from telecom provider T-Mobile
 
 - Honeynet data fusion
     - [HFlow2](https://projects.honeynet.org/hflow) - Data coalesing tool for honeynet/network analysis.
