@@ -121,7 +121,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) - Python script that will download all malicious files stored as URLs in a Kippo SSH honeypot database.
 
 - Distributed sensor deployment
-    - [Active Defense Harbinger Distribution (ADHD)](https://sourceforge.net/projects/adhd/) - GNU/Linux distro based on Ubuntu LTS that comes with many tools aimed at active defense preinstalled and configured.
     - [Modern Honey Network](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 
 - Network Analysis Tool
@@ -406,7 +405,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - Free malware analysis service powered by Payload Security that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - Analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
     - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, and automatically share them with the security community.
-    - [detux.org](https://detux.org) - Multiplatform Linux Sandbox.
     - [malwr.com](https://malwr.com/) - Free malware analysis service and community.
 
 ## Data Tools
