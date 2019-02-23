@@ -28,7 +28,7 @@
     - [mysql](https://github.com/schmalle/MysqlPot) - mysql 蜜罐
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - NoSQL 蜜罐框架
     - [ESPot](https://github.com/mycert/ESPot) - 一个用 NodeJS 编写的 Elasticsearch 蜜罐，用于对 CVE-2014-3120 的利用
-    - [Delilah](https://github.com/Novetta/delilah) - Python 编写的 Elasticsearch 蜜罐
+    - [Delilah](https://github.com/SecurityTW/delilah) - Python 编写的 Elasticsearch 蜜罐
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - C 编写的低交互 MySQL 蜜罐
 
 - Web 蜜罐
@@ -133,7 +133,6 @@
 
 - 检测 USB 恶意传播的蜜罐
     - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) - 检测通过 USB 存储设备传播恶意软件的蜜罐
-    - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/)  - U 盘上的低交互蜜罐
 
 - 数据采集
     - [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) - 从 Kippo 的日志文件中提取一些基本的统计信息插入到数据库中
@@ -379,7 +378,6 @@
 
 - 沙盒即服务
     - [malwr.com](https://malwr.com/) - 提供免费恶意软件分析服务与社区
-    - [detux.org](https://detux.org) - 多平台 Linux 沙盒
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - 确定 Windows、Android 和 Mac OS X 上的恶意文件（包括PE、PDF、DOC、PPT、XLS、APK、URL 和 MachO）的行为，判断其是否存在可疑活动
     - [VirusTotal](https://www.virustotal.com/)
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - 由 Payload Security 提供的免费恶意软件分析服务，可使用其独特的混合分析技术检测和分析未知威胁
