@@ -23,7 +23,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 ## Honeypots
 
 - Database Honeypots
-    - [Delilah](https://github.com/Novetta/delilah) - Elasticsearch Honeypot written in Python.
+    - [Delilah](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
     - [ESPot](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
     - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - Simple Mysql honeypot project.
@@ -146,7 +146,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot for USB-spreading malware
     - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) - Honeypot for malware that propagates via USB storage devices.
-    - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/) - Low interaction honeypot on USB stick.
 
 - Data Collection
     - [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) - Extracts some very basic stats from Kippo’s text-based log files and inserts them in a MySQL database.
