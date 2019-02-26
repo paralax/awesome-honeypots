@@ -255,7 +255,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeypot
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
-    - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
 
 - PDF document inspector
     - [peepdf](https://github.com/jesparza/peepdf) - Powerful Python tool to analyze PDF documents.
