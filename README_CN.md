@@ -121,9 +121,6 @@
 - 低交互蜜罐（路由器后门）
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - 路由器后门蜜罐(TCP 32764).
 
-- 蜜网流量重定向工具
-    - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - 多传感器重定向流量到集中式蜜罐
-
 - HTTPS 代理
     - [mitmproxy](https://mitmproxy.org/) - 拦截、检查、修改、重放流量
 
