@@ -104,6 +104,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [NOVA](https://github.com/DataSoft/Nova) - Uses honeypots as detectors, looks like a complete system.
     - [OpenFlow Honeypot (OFPot)](https://github.com/upa/ofpot) - Redirects traffic for unused IPs to a honeypot, built on POX.
     - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot daemon that runs several canary versions of services that alerts when a service is (ab)used.
+    - [miniprint](https://github.com/sa7mon/miniprint) - A medium interaction printer honeypot.
 
 - Botnet C2 tools
     - [Hale](https://github.com/pjlantz/Hale) - Botnet command and control monitor.
