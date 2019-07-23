@@ -33,6 +33,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [MysqlPot](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
+    - [MongoDB-HoneyProxyPy](https://github.com/jwxa2015/MongoDB-HoneyProxyPy) - MongoDB honeypot proxy by python3.
 
 - Web honeypots
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) - Honeypot plugin for Bukkit.
