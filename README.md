@@ -35,7 +35,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
 
-
 - Web honeypots
     - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) - Honeypot plugin for Bukkit.
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
