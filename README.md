@@ -28,6 +28,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
     - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - Simple Mysql honeypot project.
     - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
+    - [MongoDB-HoneyProxyPy](https://github.com/jwxa2015/MongoDB-HoneyProxyPy) - MongoDB honeypot proxy by python3.
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     - [MysqlPot](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
