@@ -317,11 +317,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - File carving
     - [TestDisk & PhotoRec](https://www.cgsecurity.org/)
 
-- Sebek
-    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - QEMU based Sebek, a data capture tool for high interaction honeypot.
-    - [Sebek](https://projects.honeynet.org/sebek/) - Data capture.
-    - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen.
-
 - Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
 
@@ -432,7 +427,6 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - Visualization app to visualize hpfeeds logs.
     - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot.
     - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
     - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
     - [ovizart](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
 
