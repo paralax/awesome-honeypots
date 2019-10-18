@@ -66,8 +66,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
         - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
 
 - Service Honeypots
-    - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
     - [ADBHoney](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process. 
+    - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
     - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - Low interaction honeypot.
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - Multi-purpose modular honeypot based on Twisted.
