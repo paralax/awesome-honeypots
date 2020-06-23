@@ -299,6 +299,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction SSH honeypot in Go.
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - Simple SSH Honeypot with features to capture terminal activity and upload to asciinema.org.
     - [twisted-honeypots](https://github.com/lanjelot/twisted-honeypots) - SSH, FTP and Telnet honeypots based on Twisted.
+    - [ssh-proxy-server](https://github.com/manfred-kaiser/ssh-proxy-server) - SSH MITM Proxy to intercept traffic between client and server. Full support for SSH, SCP and SFTP. X11- and port-forwarding is on the roadmap
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
