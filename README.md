@@ -350,7 +350,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Dockerpot](https://github.com/mrschyte/dockerpot) - Docker based honeypot.
     - [Manuka](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea and Kippo).
     - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
-
+    - [honey_ports](https://github.com/run41/honey_ports) - Very simple but effective docker deployed honeypot to detect port scanning in your environment.
+ 
 - Network analysis
     - [Quechua](https://bitbucket.org/zaccone/quechua)
 
