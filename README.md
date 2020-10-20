@@ -232,7 +232,7 @@ x    - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby ho
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
 
 - Honeypot extensions to Wireshark
-    - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - Apply Snort IDS rules and signatures against packet capture files using Wireshark.
+    - [Wireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - Apply Snort IDS rules and signatures against packet capture files using Wireshark.
 
 
 - Client
