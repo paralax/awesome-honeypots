@@ -26,9 +26,7 @@
     - [Delilah](https://github.com/SecurityTW/delilah) - Python 编写的 Elasticsearch 蜜罐
     - [ESPot](https://github.com/mycert/ESPot) - 一个用 NodeJS 编写的 Elasticsearch 蜜罐，用于对 CVE-2014-3120 的利用
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - 简单的 Elasticsearch 蜜罐
-    - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - 简单 Mysql 蜜罐
     - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB 蜜罐代理
-    - [MongoDB-HoneyProxyPy](https://github.com/jwxa2015/MongoDB-HoneyProxyPy) - 使用 Python 3 的 MongoDB 蜜罐代理
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - NoSQL 蜜罐框架
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - C 编写的低交互 MySQL 蜜罐
     - [MysqlPot](https://github.com/schmalle/MysqlPot) - MySQL 蜜罐
@@ -61,7 +59,7 @@
     - [tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot) - Tomcat 蜜罐。记录请求并保存攻击者的 WAR 文件
     - WordPress honeypots
         - [HonnyPotter](https://github.com/MartinIngesen/HonnyPotter) - WordPress 的登录蜜罐，用于收集和分析失败的登录尝试
-        - [HoneyPress](https://github.com/dustyfresh/HoneyPress) - Docker 容器中基于 Python 的 WordPress 蜜罐
+        - [HoneyPress](https://github.com/kungfuguapo/HoneyPress) - Docker 容器中基于 Python 的 WordPress 蜜罐
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - 减少垃圾邮件的 WordPress 插件
         - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress 蜜罐
 
@@ -227,7 +225,7 @@
     - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - 让蜜罐的管理与部署更简单
 
 - Wireshark 的蜜罐扩展
-    - [Whireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - 支持应用针对 PCAP 文件的 Snort IDS 规则与签名
+    - [Wireshark Extensions](https://www.honeynet.org/project/WiresharkExtensions) - 支持应用针对 PCAP 文件的 Snort IDS 规则与签名
 
 - 客户端蜜罐
     - [CWSandbox / GFI Sandbox](https://www.gfi.com/products-and-solutions/all-products)
@@ -343,7 +341,8 @@
     - [Docker honeynet](https://github.com/sreinhardt/Docker-Honeynet) - 部署与 Docker 容器中的一些蜜网工具
     - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - 基于 [Thug](https://github.com/buffer/thug) 的 Docker 蜜罐，用于分析恶意 Web 内容
     - [Dockerpot](https://github.com/mrschyte/dockerpot) - 基于 Docker 的蜜罐
-    - [Manuka](https://github.com/andrewmichaelsmith/manuka) - 基于 Docker 的蜜罐 (Dionaea & Kippo).
+    - [Manuka](https://github.com/andrewmichaelsmith/manuka) - 基于 Docker 的蜜罐 (Dionaea & Kippo)
+    - [honey_ports](https://github.com/run41/honey_ports) - 利用 Docker 进行蜜罐的部署发现端口扫描简单有效的办法
     - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - 在 Docker 中实现的现代蜜网核心元素
 
 - 网络分析
