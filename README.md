@@ -33,6 +33,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
 
+- Blockchain honeypots
+    - [Ethereum-honey-pot](https://github.com/jeremyfritzen/Ethereum-honey-pot) - Tool hacking-back hackers who tried to steal tokens.
+
 - Web honeypots
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
