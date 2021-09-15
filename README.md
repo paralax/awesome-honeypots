@@ -34,6 +34,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
 
 - Web honeypots
+    - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
