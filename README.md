@@ -37,6 +37,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
+    - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
     - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
     - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot.
