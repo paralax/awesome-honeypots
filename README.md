@@ -197,6 +197,7 @@ x    - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby ho
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - Simple UDP/DNS honeypot scripts.
     - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - Simple honeypot written in Go.
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - Low interaction honeypot.
+    - [fapro](https://github.com/fofapro/fapro) - Fake Protocol Server.
     - [glutton](https://github.com/mushorg/glutton) - All eating honeypot.
     - [go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot) - Honeypot server written in Go.
     - [go-emulators](https://github.com/kingtuna/go-emulators) - Honeypot Golang emulators.
