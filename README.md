@@ -50,6 +50,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [drupo](https://github.com/d1str0/drupot) - Drupal Honeypot.
     - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
     - [honeyup](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
+    - [owa-honeypot](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - Simple and effective phpMyAdmin honeypot.
     - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot.
