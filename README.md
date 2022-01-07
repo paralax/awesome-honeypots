@@ -40,6 +40,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
     - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
+    - [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI honeypot.
     - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.
     - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
@@ -68,7 +69,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Service Honeypots
     - [ADBHoney](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process. 
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
-x    - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+    - [DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
+    - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - Low interaction honeypot.
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - Multi-purpose modular honeypot based on Twisted.
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - Simple honeyport written in Bash and Python.
