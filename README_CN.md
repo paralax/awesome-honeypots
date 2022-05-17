@@ -8,12 +8,12 @@
 
 # 目录
 
-- [相关列表](#related-lists)
-- [蜜罐](#honeypots)
-- [Honeyd 工具](#honeyd-tools)
-- [网络与行为分析](#network-and-artifact-analysis)
-- [数据分析工具](#data-tools)
-- [指南](#guides)
+- [相关列表](#相关列表)
+- [蜜罐](#蜜罐)
+- [Honeyd工具](#Honeyd工具)
+- [网络与行为分析](#网络与行为分析)
+- [数据分析工具](#数据分析工具)
+- [指南](#指南)
 
 ## 相关列表
 
@@ -34,12 +34,14 @@
     - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - 中交互 postgresql 蜜罐
 
 - Web 蜜罐
-    - [Bukkit Honeypot](https://github.com/Argomirr/Honeypot) Honeypot - Bukkit 的一个插件
+    - [Express honeypot](https://github.com/christophe77/express-honeypot) - 使用 nodeJS 和 express 实现的 RFI & LFI 蜜罐
     - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Symfony2 类型的蜜罐
     - [Glastopf](https://github.com/mushorg/glastopf) - Web 应用蜜罐
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - 旨在提供针对那些使用搜索引擎探测资源的攻击者的侦察
+    - [HellPot](https://github.com/yunginnanet/HellPot) - 试图让请求位置的 Bot 和客户端崩溃的蜜罐
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Honeypot - Laravel 应用程序的简单垃圾邮件预防软件包
-    - [Nodepot](https://github.com/schmalle/Nodepot)  - NodeJS Web 应用蜜罐
+    - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS Web 应用蜜罐
+    - [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI 蜜罐
     - [Servletpot](https://github.com/schmalle/servletpot) - Web 应用蜜罐
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - 用于 PHP、Perl 和 Python 应用程序的模块化Web应用程序防火墙/高交互式蜜罐
     - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) - 基于 Struts Apache 2 的蜜罐
@@ -49,6 +51,8 @@
     - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - 虚假的 Django 管理登录页面，记录未经授权的访问尝试
     - [drupo](https://github.com/d1str0/drupot) - Drupal 蜜罐
     - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - 基于 Python 的 Web 服务器蜜罐构建工具
+    - [honeyup](https://github.com/LogoiLab/honeyup) - 模拟不安全网站的 Web 蜜罐
+    - [owa-honeypot](https://github.com/joda32/owa-honeypot) - 基于 Flask 的 Outlook Web 蜜罐
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - 简单有效的 phpMyAdmin 蜜罐
     - [shockpot](https://github.com/threatstream/shockpot) - 检测 Shell Shock 利用尝试的 Web 应用蜜罐
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP 脚本编写的智能蜜罐
@@ -66,6 +70,7 @@
 - 服务蜜罐
     - [ADBHoney](https://github.com/huuck/ADBHoney) - 安卓低交互蜜罐. 
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - 针对 Intel 的 AMT 固件漏洞（CVE-2017-5689）的蜜罐
+    - [DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN 蜜罐
     - [Ensnare](https://github.com/ahoernecke/ensnare) - 易部署的 Ruby 蜜罐
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - 低交互蜜罐
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - 基于 Twisted 的多用途、模块化蜜罐
@@ -78,6 +83,7 @@
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互 Python 蜜罐
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 在带有 Oracle WebLogic Server 的 Oracle Fusion Middleware 中检测 CVE-2017-10271 的低交互蜜罐
     - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - 基于 Twisted 开发的针对 WhiteFace 蜜罐
+    - [dhp](https://github.com/ciscocsirt/dhp) - 模拟 Docker HTTP API 的 Docker 蜜罐
     - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Honeycomb 插件仓库，Cymmetria 的蜜罐框架
     - [honeyntp](https://github.com/fygrave/honeyntp) - NTP 蜜罐
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 相机蜜罐
@@ -124,6 +130,7 @@
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) - 用于在 Kippo SSH 蜜罐数据库中记录的 URL 上下载恶恶意文件的 Python 脚本
 
 - 分布式传感器部署
+    - [Community Honey Network](https://communityhoneynetwork.readthedocs.io/en/stable/) - CHN 旨在使部署蜜罐和蜜罐管理变得简单灵活，默认使用 Docker Compose 和 Docker 进行部署
     - [Modern Honey Network](https://github.com/threatstream/mhn) - 分布式 Snort 与蜜罐传感器管理，使用虚拟网络，最小指纹的 SNORT 安装，服务器提供隐形侦察与集中管理
 
 - 网络分析工具
@@ -135,6 +142,9 @@
 - 低交互蜜罐（路由器后门）
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - 路由器后门蜜罐(TCP 32764).
     - [WAPot](https://github.com/lcashdol/WAPot) - 能够观察家庭路由器流量的蜜罐
+
+- 蜜罐流量重定向
+  - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - 部署多个传感器回传流量到集中蜜罐中的工具
 
 - HTTPS 代理
     - [mitmproxy](https://mitmproxy.org/) - 拦截、检查、修改、重放流量
@@ -192,6 +202,7 @@
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - 简单 UDP / DNS 蜜罐脚本
     - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - 使用 Go 编写的简单蜜罐
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - 低交互蜜罐
+    - [fapro](https://github.com/fofapro/fapro) - 虚假协议服务器
     - [glutton](https://github.com/mushorg/glutton) - 可喂食蜜罐
     - [go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot) - 使用 Go 编写的蜜罐
     - [go-emulators](https://github.com/kingtuna/go-emulators) - Go 蜜罐模拟器
@@ -210,9 +221,11 @@
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - 使用蜜罐自动创建签名
 
 - 查找服务提供商的 ASN 与前缀
-    - [CC2ASN](http://www.cc2asn.com/) - 简单的查询服务
+    - [CC2ASN](http://www.cc2asn.com/) - 属于世界上任何给定国家的 AS 编号和前缀的查询服务
 
 - 数据收集/数据共享
+    - [HPfriends](http://hpfriends.honeycloud.net/#/home) - 蜜罐数据共享平台
+        - [hpfriends](https://heipei.io/sigint-hpfriends/) - 关于 HPFriends feed 系统的介绍
     - [HPFeeds](https://github.com/rep/hpfeeds/) - 轻量认证的订阅发布协议
 
 - 集中管理工具
@@ -264,12 +277,11 @@
     - [DShield docker](https://github.com/xme/dshield-docker) - 启用了 DShield 输出的 Docker 容器
     - [HonSSH](https://github.com/tnich/honssh) - 记录客户端与服务器之间所有 SSH 通信
     - [HUDINX](https://github.com/Cryptix720/HUDINX) - 用于记录暴力破解的低交互 SSH 蜜罐，记录攻击者全部 Shell 交互
-    - [Kojoney](http://kojoney.sourceforge.net/)
-    - [Kojoney2](https://github.com/madirish/kojoney2) - 根据 Kojoney 用 Python 编写的低交互 SSH 蜜罐
     - [Kippo](https://github.com/desaster/kippo) - 中交互 SSH 蜜罐
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - 基于 Kippo 的蜜罐
     - [Kojoney2](https://github.com/madirish/kojoney2) - Jose Antonio Coret 使用 Python 编写，基于 Kojoney 的低交互 SSH 蜜罐
     - [Kojoney](http://kojoney.sourceforge.net/) - 基于 Python 的低交互蜜罐，使用 Twisted Conch 模拟 SSH 服务
+    - [Longitudinal Analysis of SSH Cowrie Honeypot Logs](https://github.com/deroux/longitudinal-analysis-cowrie) - 基于 Python 的命令行工具，用于分析一段时间内的 cowrie 日志
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - 分析 SSH 蜜罐日志
     - [Malbait](https://github.com/batchmcnulty/Malbait) - 使用 Perl 实现的 TCP/UDP 蜜罐
     - [MockSSH](https://github.com/ncouture/MockSSH) - 支持定义的所有命令的 SSH 服务器
@@ -289,7 +301,7 @@
     - [sshForShits](https://github.com/traetox/sshForShits) - 高交互 SSH 蜜罐框架
     - [sshesame](https://github.com/jaksi/sshesame) - 记录登录活动的虚假 SSH 服务器
     - [sshhipot](https://github.com/magisterquis/sshhipot) - 高交互中间人 SSH 蜜罐
-    - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Go 编写的低交互 SSH 蜜罐    
+    - [sshlowpot](https://github.com/magisterquis/sshlowpot) - Go 编写的低交互 SSH 蜜罐
     - [sshsyrup](https://github.com/mkishere/sshsyrup) - 简单的 SSH 蜜罐，捕获终端活动并上传到 asciinema.org
     - [twisted-honeypots](https://github.com/lanjelot/twisted-honeypots) - 基于 Twisted 的 SSH\FTP\Telnet 的蜜罐
 
@@ -362,8 +374,7 @@
     - [dcept](https://github.com/secureworks/dcept) - 部署、检测活动目录使用情况的 honeytokens
     - [honeyku](https://github.com/0x4D31/honeyku) - 基于 Heroku 的 Web 蜜罐
 
-
-## <a name="honeyd"></a> Honeyd 工具
+## Honeyd工具
 
 - Honeyd 插件
     - [Honeycomb](http://www.honeyd.org/tools.php)
@@ -381,7 +392,7 @@
     - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
 
 
-## <a name="analysis"></a> 网络与行为分析
+## 网络与行为分析
 
 - 沙盒
     - [Argos](http://www.few.vu.nl/argos/) - 用于捕获零日攻击的模拟器
@@ -398,9 +409,8 @@
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - 确定 Windows、Android 和 Mac OS X 上的恶意文件（包括 PE、PDF、DOC、PPT、XLS、APK、URL 和 MachO）的行为，判断其是否存在可疑活动
     - [VirusTotal](https://www.virustotal.com/)
     - [malwr.com](https://malwr.com/) - 提供免费恶意软件分析服务与社区
-    
 
-## <a name="visualizers"></a> 数据分析工具
+## 数据分析工具
 
 - 前端
     - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - Dionaea 蜜罐前端 Web
@@ -424,9 +434,8 @@
     - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - 用于可视化 Kippo 蜜罐中数据的脚本
     - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - 试图创建蜜罐中可操作信息的智能蜜网项目
     - [ovizart](https://github.com/oguzy/ovizart) - 可视化网络流量分析
-    
 
-## <a name="guides"></a> 指南
+## 指南
 
 - [T-Pot: 多蜜罐平台](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
 - [蜜罐 (Dionaea and kippo) 设置脚本](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
