@@ -116,6 +116,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Other/random
 
   - [Damn Simple Honeypot (DSHP)](https://github.com/naorlivne/dshp) - Honeypot framework with pluggable handlers.
+  - [Masscanned](https://github.com/ivre/masscanned) - a network responder. Its purpose is to provide generic answers to as many protocols as possible, and with as few assumptions as possible on the client's intentions, to interact with scanners and opportunistic bots as far as possible.
   - [NOVA](https://github.com/DataSoft/Nova) - Uses honeypots as detectors, looks like a complete system.
   - [OpenFlow Honeypot (OFPot)](https://github.com/upa/ofpot) - Redirects traffic for unused IPs to a honeypot, built on POX.
   - [OpenCanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot daemon that runs several canary versions of services that alerts when a service is (ab)used.
@@ -493,6 +494,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map.
   - [HoneyStats](https://sourceforge.net/projects/honeystats/) - Statistical view of the recorded activity on a Honeynet.
   - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - Visualization app to visualize hpfeeds logs.
+  - [IVRE](https://github.com/ivre/ivre) - A *network recon framework* that can be used to handle data generated with [Masscanned](https://github.com/ivre/masscanned), and/or scan the scanners that hit your honeypots. For some examples, see [Who's attacking me?](https://isc.sans.edu/forums/diary/Whos+Attacking+Me/21933/) and [Three honeypots and a month after](https://www.serializing.me/2019/01/27/three-honeypots-and-a-month-after/). See also [the website](https://ivre.rocks/) and [some use cases](https://doc.ivre.rocks/en/latest/usage/use-cases.html).
   - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot.
   - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
   - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
