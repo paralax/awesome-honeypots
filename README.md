@@ -83,6 +83,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - Multi-purpose modular honeypot based on Twisted.
   - [Honeyport](https://github.com/securitygeneration/Honeyport) - Simple honeyport written in Bash and Python.
   - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot.
+  - [ListenSSH](https://github.com/GhostSlayer/ListenSSH) - Easily report all connection attempts on any port to AbuseIPDB.
   - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - Modern high-interaction honeypot framework.
   - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) - Low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).
   - [RDPy](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
