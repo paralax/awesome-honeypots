@@ -72,6 +72,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [HoneyPress](https://github.com/kungfuguapo/HoneyPress) - Python based WordPress honeypot in a Docker container.
     - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
     - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
+  - [Python-Honeypot](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 
 - Service Honeypots
 
