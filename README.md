@@ -96,6 +96,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) - Low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).
   - [node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot) - FTP server honeypot in JS.
   - [pyrdp](https://github.com/gosecure/pyrdp) - RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact.
+  - [rdppot](https://github.com/kryptoslogic/rdppot) - RDP honeypot
   - [RDPy](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
   - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) - High interaction SMB service honeypot capable of capturing wannacry-like Malware.
   - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
