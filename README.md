@@ -110,6 +110,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Anti-honeypot stuff
 
+  - [canarytokendetector](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
   - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
 
 - ICS/SCADA honeypots
@@ -285,6 +286,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot deployment
 
+  - [honeyfs](https://github.com/referefref/honeyfs) - Tool to create artificial file systems for medium/high interaction honeypots.
   - [Modern Honeynet Network](http://threatstream.github.io/mhn/) - Streamlines deployment and management of secure honeypots.
 
 - Honeypot extensions to Wireshark
@@ -401,6 +403,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
   - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
     - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
+  - [SMTPLLMPot](https://github.com/referefref/SMTPLLMPot) - A super simple SMTP Honeypot built using GPT3.5
   - [SpamHAT](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool.
   - [Spamhole](http://www.spamhole.net/)
   - [honeypot](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK.
