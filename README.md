@@ -38,6 +38,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
   - [RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 
+- Blockchain honeypots
+    - [Ethereum-honey-pot](https://github.com/jeremyfritzen/Ethereum-honey-pot) - Tool hacking-back hackers who tried to steal tokens.
+
 - Web honeypots
 
   - [Express honeypot](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
