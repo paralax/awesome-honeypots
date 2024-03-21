@@ -86,6 +86,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
   - [Helix](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+  - [honeydb] (https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
   - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
   - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
   - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) - FTP Honeypot.
