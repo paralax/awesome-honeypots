@@ -86,12 +86,12 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
   - [Helix](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+  - [honeydb] (https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
   - [honeyntp](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
   - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - Observation camera honeypot.
   - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) - FTP Honeypot.
   - [honeypots](https://github.com/qeeqbox/honeypots) - 25 different honeypots in a single pypi package! (dns, ftp, httpproxy, http, https, imap, mysql, pop3, postgres, redis, smb, smtp, socks5, ssh, telnet, vnc, mssql, elastic, ldap, ntp, memcache, snmp, oracle, sip and irc).
   - [honeytrap](https://github.com/honeytrap/honeytrap) - Advanced Honeypot framework written in Go that can be connected with other honeypot software.
-  - [HoneyPy](https://github.com/foospidy/HoneyPy) - Low interaction honeypot.
   - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - Multi-purpose modular honeypot based on Twisted.
   - [Honeyport](https://github.com/securitygeneration/Honeyport) - Simple honeyport written in Bash and Python.
   - [Honeyprint](https://github.com/glaslos/honeyprint) - Printer honeypot.
