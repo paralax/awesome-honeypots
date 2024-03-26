@@ -161,6 +161,10 @@
 - 日志匿名工具
     - [LogAnon](http://code.google.com/archive/p/loganon/) - 日志匿名库
 
+- 主动欺骗工具
+
+    - [Mimicry](https://github.com/chaitin/mimicry) - 能够在漏洞利用和后渗透阶段主动欺骗攻击者，在攻击者无感知的情况下将攻击者转移进入蜜罐环境
+
 - 低交互蜜罐（路由器后门）
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - 路由器后门蜜罐(TCP 32764).
     - [WAPot](https://github.com/lcashdol/WAPot) - 能够观察家庭路由器流量的蜜罐
