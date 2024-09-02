@@ -40,6 +40,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Web honeypots
 
+  - [Lophiid](https://github.com/mrheinen/lophiid/) - Distributed web application honeypot to interact with large scale exploitation attempts.
   - [Express honeypot](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
   - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
   - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
