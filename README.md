@@ -108,6 +108,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [troje](https://github.com/dutchcoders/troje/) - Honeypot that runs each connection with the service within a separate LXC container.
   - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - Low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware.
   - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - Twisted based honeypot for WhiteFace.
+  - [Check-The-Sum](https://check-the-sum.fr) - Website sharing IPs, domain names, payloads and malware collected via a network of honeypots
  
 - Distributed Honeypots
 
