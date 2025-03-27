@@ -102,6 +102,7 @@
     - [RDPy](https://github.com/citronneur/rdpy) - Python 实现的 RDP 蜜罐
     - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) -  可以捕获类似 Wannacry 的恶意软件的高交互 SMB 蜜罐
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互 Python 蜜罐
+    - [Trapster Commmunity](https://github.com/0xBallpoint/trapster-community) - 模块化且易于安装的 Python Honeypot，具有全面的警报功能
     - [troje](https://github.com/dutchcoders/troje/) - 在独立的 LXC 容器中运行的蜜罐服务
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 在带有 Oracle WebLogic Server 的 Oracle Fusion Middleware 中检测 CVE-2017-10271 的低交互蜜罐
     - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - 基于 Twisted 开发的针对 WhiteFace 蜜罐
