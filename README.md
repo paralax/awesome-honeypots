@@ -8,7 +8,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 # Contents
 
-- [Awesome Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
+- [Awesome Honeypots ](#awesome-honeypots-)
 - [Contents](#contents)
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
@@ -405,7 +405,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Spamtrap
 
   - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - Perl module that appears to provide the functionality of a standard SMTP server.
-  - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
+  - [Mailoney](https://github.com/phin3has/mailoney) - SMTP honeypot written in python.
   - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
   - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
     - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
