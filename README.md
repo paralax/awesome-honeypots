@@ -84,6 +84,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [dhp](https://github.com/ciscocsirt/dhp) - Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.
   - [DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
   - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+  - [GenAIPot](https://github.com/ls1911/GenAIPot) - The first A.I based open source honeypot. supports POP3 and SMTP protocols and generates content using A.I based on user description.
   - [Helix](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
   - [honeydb] (https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
