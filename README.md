@@ -47,6 +47,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
   - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
   - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
+  - [Lophiid](https://github.com/mrheinen/lophiid/) - Distributed web application honeypot to interact with large scale exploitation attempts.
   - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
   - [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI honeypot.
   - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot.
