@@ -179,6 +179,10 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
   - [LogAnon](http://code.google.com/archive/p/loganon/) - Log anonymization library that helps having anonymous logs consistent between logs and network captures.
 
+- Dynamic Deception Tool
+
+  - [Mimicry](https://github.com/chaitin/mimicry) - Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.
+
 - Low interaction honeypot (router back door)
 
   - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - Honeypot for router backdoor (TCP 32764).
