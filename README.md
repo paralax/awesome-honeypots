@@ -550,3 +550,4 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.
   - [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://www.osti.gov/servlets/purl/1524844)
   - ['It's Not Paranoia If They're Really After You': When Announcing Deception Technology Can Change Attacker Decisions](https://scholarspace.manoa.hawaii.edu/items/88cd00a5-914f-456e-a322-01c22fd5b7d7)
+  - [When to Deceive: A Cross-Layer Stackelberg Game Framework for Strategic Timing of Cyber Deception](https://arxiv.org/pdf/2505.21244)
