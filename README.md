@@ -79,6 +79,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Python-Honeypot](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 
 - Service Honeypots
+  - [Melissae](https://github.com/ilostmypassword/Melissae) - A modular, containerized honeypot framework. Deploy a lot of services easily (Web, SSH, FTP, Modbus and more...) and access your logs/iocs in an integrated dashboard.
   - [ADBHoney](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process.
   - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
   - [ddospot](https://github.com/aelth/ddospot) - NTP, DNS, SSDP, Chargen and generic UDP-based amplification DDoS honeypot.
