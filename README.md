@@ -43,6 +43,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Cloud Active Defense](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
   - [Express honeypot](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
   - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
+  - [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.
   - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
   - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
   - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
