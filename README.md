@@ -239,7 +239,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Server
 
   - [Amun](http://amunhoney.sourceforge.net) - Vulnerability emulation honeypot.
-  - [Artillery](https://github.com/trustedsec/artillery/) - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
+  - [Artillery](https://github.com/BinaryDefense/artillery) - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
   - [Bait and Switch](http://baitnswitch.sourceforge.net) - Redirects all hostile traffic to a honeypot that is partially mirroring your production system.
   - [Bifrozt](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
   - [Conpot](http://conpot.org/) - Low interactive server side Industrial Control Systems honeypot.
