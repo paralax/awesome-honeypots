@@ -345,6 +345,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
   - [HonSSH](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
   - [HUDINX](https://github.com/Cryptix720/HUDINX) - Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
+  - [InnerWarden](https://github.com/InnerWarden/innerwarden) - Security agent with built-in SSH and HTTP honeypots featuring an LLM-powered interactive fake shell that captures credentials and attacker commands.
   - [Kippo](https://github.com/desaster/kippo) - Medium interaction SSH honeypot.
   - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
   - [Kojoney2](https://github.com/madirish/kojoney2) - Low interaction SSH honeypot written in Python and based on Kojoney by Jose Antonio Coret.
