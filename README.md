@@ -484,6 +484,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Honeyd stats
   - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=paralax_awesome-honeypots) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## Network and Artifact Analysis
 
 - Sandbox
