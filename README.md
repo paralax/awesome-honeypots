@@ -58,6 +58,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [bwpot](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
   - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
   - [drupo](https://github.com/d1str0/drupot) - Drupal Honeypot.
+  - [flux](https://github.com/andrewmichaelsmith/flux) - Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.
   - [galah](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
   - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
   - [honeyup](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
