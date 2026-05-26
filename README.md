@@ -556,6 +556,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
   - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
   - [ovizart](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
+  - [SSH-Radar](https://github.com/antonsatt/ssh-radar) - Real-time monitoring and visualization of failed SSH login attempts with geolocation and Grafana dashboards.
 
 ## Guides
 
