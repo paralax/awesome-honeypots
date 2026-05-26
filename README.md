@@ -29,6 +29,17 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 ## Honeypots
 
 - Database Honeypots
+    - [Acra](https://github.com/cossacklabs/acra) - Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.
+    - [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+    - [ESPot](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+    - [Elastic honey](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
+    - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - A simple Mysql honeypot project.
+    - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
+    - [NoSQLpot](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
+    - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+    - [MysqlPot](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
+    - [pghoney](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    - [sticky_elephant](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
 
   - [Delilah](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
   - [ESPot](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
