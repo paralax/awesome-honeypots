@@ -139,6 +139,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [canarytokendetector](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
   - [honeydet](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
   - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
+  - [potsnitch](https://github.com/f0rw4rd/potsnitch) - Honeypot detection toolkit with protocol fingerprinting for 25+ honeypot types.
 
 - ICS/SCADA honeypots
 
