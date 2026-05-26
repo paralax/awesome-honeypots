@@ -57,7 +57,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [Ethereum-honey-pot](https://github.com/jeremyfritzen/Ethereum-honey-pot) - Tool hacking-back hackers who tried to steal tokens.
 
 - Web honeypots
-  
+
+  - [Krawl](https://github.com/BlessedRebuS/Krawl) - Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.
   - [Cloud Active Defense](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
   - [Express honeypot](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
   - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
