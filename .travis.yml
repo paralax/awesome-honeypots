@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+    - 2.2
+before_script:
+    - gem install awesome_bot
+script:
+    - awesome_bot README.md --white-list https://github.com/sindresorhus/awesome,http://hpfriends.honeycloud.net/#/home,https://malwr.com/
+    - awesome_bot README_CN.md --white-list https://github.com/sindresorhus/awesome,http://hpfriends.honeycloud.net/#/home,https://malwr.com/
+    
