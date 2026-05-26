@@ -152,6 +152,12 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
   - [gridpot](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets.
   - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - Mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
+  - [HoneyPLC](https://github.com/sefcom/honeyplc) - Mimics multiple PLC devices, including Siemenens and Rockewell
+
+- Space/Satellite honeypots
+
+  - [HoneySat](https://github.com/HoneySat/honeysat-deploy) - Mimics multiple satellite missions
+   
 
 - Other/random
 
