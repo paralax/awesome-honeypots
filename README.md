@@ -379,6 +379,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH Honeypot (based on kippo).
   - [DShield docker](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
   - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
+  - [HoneyGPT](https://github.com/zyw-286/HoneyGPT) - LLM-powered SSH/Telnet honeypot on Cowrie that analyzes attacker intent in real time and returns intent-tailored, stateful responses to prolong engagement at low cost, while logging attack behavior for analysis (Computer Networks 2026).
   - [HonSSH](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
   - [HUDINX](https://github.com/Cryptix720/HUDINX) - Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
   - [InnerWarden](https://github.com/InnerWarden/innerwarden) - Security agent with built-in SSH and HTTP honeypots featuring an LLM-powered interactive fake shell that captures credentials and attacker commands.
