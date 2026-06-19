@@ -582,6 +582,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - Tutorial on setting up Dionaea on an EC2 instance.
   - [Using a Raspberry Pi honeypot to contribute data to DShield/ISC](https://isc.sans.edu/diary/22680) - The Raspberry Pi based system will allow us to maintain one code base that will make it easier to collect rich logs beyond firewall logs.
   - [honeypotpi](https://github.com/free5ty1e/honeypotpi) - Script for turning a Raspberry Pi into a HoneyPot Pi.
+  - [Running a DNS Honeypot: 24 Hours of Data](https://github.com/tg12/dns-honeypot) - Unbound-based DNS honeypot with live public Prometheus/Loki/Grafana threat dashboards.
 
 - Research Papers
 
