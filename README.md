@@ -139,6 +139,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Distributed Honeypots
 
   - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction honeypot server.
+  - [HoneyWire](https://github.com/andreicscs/HoneyWire) - A fully distributed, self-hosted, zero-agent deception platform built on hardened distroless containers. Turn any linux box into a canary in under 60 seconds.
 
 - Anti-honeypot stuff
 
