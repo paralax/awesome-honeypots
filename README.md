@@ -139,6 +139,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Distributed Honeypots
 
   - [DemonHunter](https://github.com/RevengeComing/DemonHunter) - Low interaction honeypot server.
+  - [Dataforge Honeypot](https://github.com/carlvon1800/honeypot-detector) - Simple and effective honeypot system with real world penetration test experience.  Single node at no charge.
 
 - Anti-honeypot stuff
 
