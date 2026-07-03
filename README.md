@@ -130,6 +130,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [rdppot](https://github.com/kryptoslogic/rdppot) - RDP honeypot
   - [RDPy](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
   - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) - High interaction SMB service honeypot capable of capturing wannacry-like Malware.
+  - [Spip-Go](https://github.com/honeylabshq/Spip-Go) - Network sensor written in Go that listens on all TCP ports and captures full attack payloads (TLS included), with low-interaction Redis and Telnet responders to elicit second-stage requests.
   - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
   - [Trapster Commmunity](https://github.com/0xBallpoint/trapster-community) - Modural and easy to install Python Honeypot, with comprehensive alerting
   - [troje](https://github.com/dutchcoders/troje/) - Honeypot that runs each connection with the service within a separate LXC container.
