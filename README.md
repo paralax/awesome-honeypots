@@ -85,6 +85,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [honeyup](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
   - [modpot](https://github.com/referefref/modpot) - Modpot is a modular web application honeypot framework and management application written in Golang and making use of gin framework.
   - [nginx-honeypot](https://github.com/GetPageSpeed/nginx-honeypot) - A simple honeypot based on NGINX configuration that logs and blocks bots scanning for vulnerabilities.
+  - [nginx-scanner-trap](https://github.com/gistrec/nginx-scanner-trap) - One-script honeypot for existing nginx servers: the first probe of paths like /.env or /.git gets the bot banned on all ports via fail2ban and nftables.
   - [owa-honeypot](https://github.com/joda32/owa-honeypot) - A basic flask based Outlook Web Honey pot.
   - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - Simple and effective phpMyAdmin honeypot.
   - [shockpot](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
