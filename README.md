@@ -126,6 +126,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - Modern high-interaction honeypot framework.
   - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) - Low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS).
   - [node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot) - FTP server honeypot in JS.
+  - [PromptPot](https://github.com/ta-061/promptpot) - Low interaction honeypot imitating HTTP APIs of local LLM/AI services (Ollama, LM Studio, vLLM, Gradio, ComfyUI) and logging full requests including prompts, standalone or alongside T-Pot.
   - [pyrdp](https://github.com/gosecure/pyrdp) - RDP man-in-the-middle and library for Python 3 with the ability to watch connections live or after the fact.
   - [rdppot](https://github.com/kryptoslogic/rdppot) - RDP honeypot
   - [RDPy](https://github.com/citronneur/rdpy) - Microsoft Remote Desktop Protocol (RDP) honeypot implemented in Python.
