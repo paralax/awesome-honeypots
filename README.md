@@ -573,6 +573,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 ## Guides
 
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous IDS/IPS with built-in honeypot layer (Layer C3), nine defense layers, and ML-DSA-87 post-quantum signed alerts (NIST FIPS 204). Self-hosted, GPL-3.0.
 - [T-Pot: A Multi-Honeypot Platform](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
 - [Honeypot (Dionaea and kippo) setup script](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 - [The Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
