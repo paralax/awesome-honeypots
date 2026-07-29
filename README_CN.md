@@ -60,7 +60,6 @@
     - [modpot](https://github.com/referefref/modpot) - Modpot 是模块化的 Web 应用蜜罐框架，该框架基于 Golang 与 Gin 开发。
     - [owa-honeypot](https://github.com/joda32/owa-honeypot) - 基于 Flask 的 Outlook Web 蜜罐
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - - 简单有效的 phpMyAdmin 蜜罐
-    - [shockpot](https://github.com/threatstream/shockpot) - 检测 Shell Shock 利用尝试的 Web 应用蜜罐
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - PHP 脚本编写的智能蜜罐
     - Snare/Tanner - Glastopf 的后继者
       - [Snare](https://github.com/mushorg/snare) - 下一代高交互 honEypot
@@ -76,7 +75,6 @@
 
 - 服务蜜罐
     - [ADBHoney](https://github.com/huuck/ADBHoney) - 安卓低交互蜜罐 
-    - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - 针对 Intel 的 AMT 固件漏洞（CVE-2017-5689）的蜜罐
     - [ddospot](https://github.com/aelth/ddospot) -反射放大 DDoS 蜜罐，支持 NTP、DNS、SSDP、Chargen 与其他 UDP 协议
     - [dionaea](https://github.com/DinoTools/dionaea) - dionaea 蜜罐的主页
     - [dhp](https://github.com/ciscocsirt/dhp) - 模拟 Docker HTTP API 的简单 Docker 蜜罐
@@ -154,7 +152,6 @@
 
 - 分布式传感器部署
     - [Community Honey Network](https://communityhoneynetwork.readthedocs.io/en/stable/) - CHN 旨在使部署蜜罐和蜜罐管理变得简单灵活，默认使用 Docker Compose 和 Docker 进行部署
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - 分布式 Snort 与蜜罐传感器管理，使用虚拟网络，最小指纹的 SNORT 安装，服务器提供隐形侦察与集中管理
 
 - 网络分析工具
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - 重放网络数据包
@@ -281,7 +278,6 @@
     - [Jsunpack-n](https://github.com/urule99/jsunpack-n)
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [PhoneyC](https://github.com/honeynet/phoneyc)
-    - [Pwnypot](https://github.com/shjalayeri/pwnypot) - 高交互客户端蜜罐
     - [Rumal](https://github.com/thugs-rumal/)
     - [Shelia](https://www.cs.vu.nl/~herbertb/misc/shelia/)
     - [Thug](https://buffer.github.io/thug/)
@@ -452,7 +448,6 @@
     - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - 用于可视化 Shockpot 蜜罐中数据的脚本
     - [Tango](https://github.com/aplura/Tango) - 使用 Splunk 处理蜜罐情报
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 用于可视化 Wordpot 蜜罐中数据的脚本
-    - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - 用于显示蜜罐数据的简化 UI
     - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - 展示 SSH 蜜罐的 Flask 网站
     
 - 可视化
