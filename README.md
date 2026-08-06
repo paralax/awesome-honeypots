@@ -563,6 +563,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
   - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map.
   - [HoneyStats](https://sourceforge.net/projects/honeystats/) - Statistical view of the recorded activity on a Honeynet.
+  - [cowrie-honeypot](https://github.com/Krisztian766/cowrie-honeypot) - Real Cowrie deployment with a log-aggregation and GeoIP pipeline that renders a self-contained static HTML dashboard (attack volume over time, attacker countries, credentials, malware families) with no server or JS framework required.
   - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - Visualization app to visualize hpfeeds logs.
   - [IVRE](https://github.com/ivre/ivre) - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
   - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot.
