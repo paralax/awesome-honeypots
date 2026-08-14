@@ -390,6 +390,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - Analyzed SSH honeypot logs.
   - [Malbait](https://github.com/batchmcnulty/Malbait) - Simple TCP/UDP honeypot implemented in Perl.
   - [MockSSH](https://github.com/ncouture/MockSSH) - Mock an SSH server and define all commands it supports (Python, Twisted).
+  - [ShardLure](https://github.com/hett-patell/ShardLure) - Wraps Cowrie to cluster attackers into identities by HASSH fingerprint, enrich them against threat-intel feeds, and share captured payloads to MalwareBazaar/URLhaus.
   - [cowrie2neo](https://github.com/xlfe/cowrie2neo) - Parse cowrie honeypot logs into a neo4j database.
   - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot.
   - [go0r](https://github.com/fzerorubigd/go0r) - Simple ssh honeypot in Golang.
