@@ -26,6 +26,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 - [CyberBriefing IOC Feeds API](https://cyberbriefing.info) - REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.
+- [SiberKapan](https://siberkapan.org) - Open-source threat intelligence platform operating its own honeypot network (HoneypotKapan) alongside FortiGate and nginx sensors, focused on threats targeting Turkish infrastructure. Official MISP default feed provider. Free IP/domain/malware-hash feeds in MISP, TAXII, STIX, TXT and JSON formats.
 
 ## Honeypots
 
