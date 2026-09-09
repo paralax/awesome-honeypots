@@ -104,6 +104,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Service Honeypots
   - [ADBHoney](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process.
+  - [Echidra](https://github.com/Qyleron/EchidraOSS) - Open-source multi-protocol honeypot with SSH, HTTP, FTP, and Telnet decoys, MITRE ATT&CK-based attacker behavior classification, threat intelligence, and a live dashboard.
   - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
   - [ddospot](https://github.com/aelth/ddospot) - NTP, DNS, SSDP, Chargen and generic UDP-based amplification DDoS honeypot.
   - [dionaea](https://github.com/DinoTools/dionaea) - Home of the dionaea honeypot.
