@@ -113,6 +113,7 @@
 - 反蜜罐
     - [canarytokendetector](https://github.com/referefref/canarytokendetector) - 用于检测 Thinkst CanaryTokens 的工具
     - [honeydet](https://github.com/referefref/honeydet) - Golang 编写的基于签名的蜜罐检测工具
+    - [honeypot-auditor](https://github.com/mziqudhd92/honeypot-auditor) - 多协议 CLI，通过认证/状态探测与加权评分指纹识别低交互蜜罐。
     - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - 检测 Kippo 蜜罐
 
 - ICS/SCADA 蜜罐
