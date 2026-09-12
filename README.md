@@ -501,6 +501,9 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [honeyku](https://github.com/0x4D31/honeyku) - Heroku-based web honeypot that can be used to create and monitor fake HTTP endpoints (i.e. honeytokens).
   - [Tracebit Community Edition](https://community.tracebit.com) - online free canary tokens (AWS, SSH, Email, Web)
     
+
+- AI / LLM Agent honeypots
+    - [agent-canary](https://github.com/DorianChn/agent-canary) - Canary tripwires for AI coding agents: inert decoy MCP tools (fake wire transfer, prod-secrets reader, sudo shell) plus unique canary tokens planted in honeypot files; any touch is a zero-false-positive signal that the agent was hijacked by prompt injection.
 ## Honeyd Tools
 
 - Honeyd plugin
