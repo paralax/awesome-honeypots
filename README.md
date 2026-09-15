@@ -541,6 +541,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - Analyzes the behavior of malicious files including PEs, PDFs, DOCs, PPTs, XLSs, APKs, URLs and MachOs on Windows, Android and Mac OS X for suspicious activities.
   - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, and automatically share them with the security community.
   - [malwr.com](https://malwr.com/) - Free malware analysis service and community.
+  - [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades for Solana and EVM tokens from on-chain checks (mint/freeze authority, liquidity, holder concentration); keyless REST API.
+
 
 ## Data Tools
 
