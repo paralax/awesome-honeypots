@@ -400,6 +400,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [honeyssh](https://github.com/ppacher/honeyssh) - Credential dumping SSH honeypot with statistics.
   - [hornet](https://github.com/czardoz/hornet) - Medium interaction SSH honeypot that supports multiple virtual hosts.
   - [ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger) - Low/zero interaction SSH authentication logging honeypot.
+  - [ssh-auth-logger](https://github.com/GAS85/ssh-auth-logger) - Simple SSH and Telnet authentication logging honeypot with automatic AbuseIPDB reporting. Evolution of [ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger).
   - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs IP addresses, usernames, and passwords.
   - [ssh-honeypot](https://github.com/amv42/sshd-honeypot) - Modified version of the OpenSSH deamon that forwards commands to Cowrie where all commands are interpreted and returned.
   - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - Low-interaction SSH honeypot written in C.
