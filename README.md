@@ -389,6 +389,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Longitudinal Analysis of SSH Cowrie Honeypot Logs](https://github.com/deroux/longitudinal-analysis-cowrie) - Python based command line tool to analyze cowrie logs over time.
   - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - Analyzed SSH honeypot logs.
   - [Malbait](https://github.com/batchmcnulty/Malbait) - Simple TCP/UDP honeypot implemented in Perl.
+  - [MIMIC](https://github.com/Kevin1S1/mimic-ssh-honeypot) - Medium-to-high interaction SSH honeypot in Rust that runs as a pure in-memory state machine, with no real shell or filesystem access - enforced at compile time.
   - [MockSSH](https://github.com/ncouture/MockSSH) - Mock an SSH server and define all commands it supports (Python, Twisted).
   - [cowrie2neo](https://github.com/xlfe/cowrie2neo) - Parse cowrie honeypot logs into a neo4j database.
   - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH Honeypot.
