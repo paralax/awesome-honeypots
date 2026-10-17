@@ -29,6 +29,8 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 ## Honeypots
 
+- File / Host Honeytokens
+    - [Koru](https://github.com/bekaans/koru) - Deception-based runtime security for Linux servers: plants honeytokens (decoy credentials, fake SSH keys, decoy MCP config files) inside the host and detects reads at kernel level (eBPF/Pulsar) before credential use, attributing access to AI agents via process lineage. Apache-2.0, Rust.
 - Database Honeypots
     - [Acra](https://github.com/cossacklabs/acra) - Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.
     - [Delilah](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
