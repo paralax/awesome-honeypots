@@ -20,6 +20,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 ## Related Lists
 
 ## Commercial Honepots 
+- [DECTRAX](https://dectrax.com) - Enterprise active cyber deception and distributed honeypot platform providing decoy services, canary credentials/tokens, automated containment, and high-fidelity threat telemetry.
 - [honerix](https://www.honerix.com) - Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.
 
 ## <a name="honeypots"></a> Honeypots
