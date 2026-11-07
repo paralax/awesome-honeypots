@@ -21,6 +21,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 ## Commercial Honepots 
 - [honerix](https://www.honerix.com) - Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.
+- [Whatoblock](https://whatoblock.com/) - Commercial network of HoneyBot sensors (HTTP/S, SMB, SSH, RDP, Telnet) that classifies attacking IPs as scanners, botnet C2, proxies, Tor exits and DDoS sources and publishes them as firewall-ready blocklists. Free tier available.
 
 ## <a name="honeypots"></a> Honeypots
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
