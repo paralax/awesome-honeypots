@@ -101,6 +101,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
     - [WebDecoy](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress plugin with invisible honeypot fields, behavioral analysis, and SHA-256 proof-of-work challenges to detect bots, headless browsers, and automation frameworks.
     - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
   - [Python-Honeypot](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
+  - [sanadamaru](https://github.com/mamorune-com/sanadamaru) - Dependency-free decoy endpoints and fake API keys for Python ASGI/WSGI apps.
 
 - Service Honeypots
   - [ADBHoney](https://github.com/huuck/ADBHoney) - Low interaction honeypot that simulates an Android device running Android Debug Bridge (ADB) server process.
