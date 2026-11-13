@@ -21,6 +21,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 ## Commercial Honepots 
 - [honerix](https://www.honerix.com) - Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.
+- [OffSeq Mirage](https://mirage.offseq.com) - Honeypot console for sensors on your own network, with attacker clustering, campaign attribution, session replay and fleet-wide context. Free plan with one honeypot.
 
 ## <a name="honeypots"></a> Honeypots
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
