@@ -26,6 +26,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 - [CyberBriefing IOC Feeds API](https://cyberbriefing.info) - REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.
+- [OffSeq Mirage Feed](https://feeds.offseq.com/) - Free daily attacker IPs, exploited CVEs, payload URLs and fingerprints from the OffSeq Mirage honeypot fleet, in firewall, SIEM, STIX 2.1 and MISP formats, CC BY 4.0.
 
 ## Honeypots
 
