@@ -74,6 +74,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot.
   - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.
   - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
+  - [TuringPot](https://github.com/tracebit-com/turingpot) - Web honeypot that detects AI agents and autonomous offensive frameworks by timing how quickly visitors solve puzzles, logging source IPs and JA4 fingerprints.
   - [WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap) - Designed to create deceptive webpages to deceive and redirect attackers away from real websites.
   - [basic-auth-pot (bap)](https://github.com/bjeborn/basic-auth-pot) - HTTP Basic Authentication honeypot.
   - [bwpot](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
