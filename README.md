@@ -386,6 +386,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
   - [Kojoney2](https://github.com/madirish/kojoney2) - Low interaction SSH honeypot written in Python and based on Kojoney by Jose Antonio Coret.
   - [Kojoney](http://kojoney.sourceforge.net/) - Python-based Low interaction honeypot that emulates an SSH server implemented with Twisted Conch.
+  - [Kotivahdit toolkit](https://github.com/kotivahdit/toolkit) - Lightweight telnet/SSH/HTTP tarpits, fake Docker API, bait-file web trap and a detection-resistant LLM honeypot shim that answers fingerprinting probes with an isolated real shell.
   - [Longitudinal Analysis of SSH Cowrie Honeypot Logs](https://github.com/deroux/longitudinal-analysis-cowrie) - Python based command line tool to analyze cowrie logs over time.
   - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - Analyzed SSH honeypot logs.
   - [Malbait](https://github.com/batchmcnulty/Malbait) - Simple TCP/UDP honeypot implemented in Perl.
