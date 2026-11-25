@@ -500,6 +500,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [dcept](https://github.com/secureworks/dcept) - Tool for deploying and detecting use of Active Directory honeytokens.
   - [honeyku](https://github.com/0x4D31/honeyku) - Heroku-based web honeypot that can be used to create and monitor fake HTTP endpoints (i.e. honeytokens).
   - [Tracebit Community Edition](https://community.tracebit.com) - online free canary tokens (AWS, SSH, Email, Web)
+  - [Honeytokens as Code](https://github.com/Dradradre/honeytokens-as-code) - MCP server, agent skill and CLI that let AI coding agents plant AWS canary keys and webhook honeytokens in repositories, with CloudTrail, Slack and Discord alerts.
     
 ## Honeyd Tools
 
